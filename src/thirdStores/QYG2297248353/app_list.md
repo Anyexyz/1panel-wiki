@@ -1,0 +1,61 @@
+# 应用列表
+
+|应用|图标|描述|类型|
+|:---:|:---:|:---:|:---:|
+|[Ztncui](https://www.zerotier.com/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/ztncui/logo.png" alt="logo" width="50px">|创建和管理虚拟软件定义网络||
+|[Yarr](https://github.com/nkanaev/yarr/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/yarr/logo.png" alt="logo" width="50px">|Rss 阅读器|实用工具|
+|[Alist](https://alist.nn.ci/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/alist/logo.png" alt="logo" width="50px">|一个支持多种存储的文件列表程序||
+|[Ghost](https://ghost.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/ghost/logo.png" alt="logo" width="50px">|用于现代出版、会员制、订阅和通讯的独立技术||
+|[MoviePilot](https://github.com/jxxghp/MoviePilot/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/movie-pilot/logo.png" alt="logo" width="50px">|NAS媒体库自动化管理工具||
+|[Umami](https://umami.is/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/umami/logo.png" alt="logo" width="50px">|为速度和效率而构建的网站分析||
+|[Halo](https://halo.run/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/halo/logo.png" alt="logo" width="50px">|强大易用的开源建站工具||
+|[NocoDB](https://nocodb.com/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/nocodb/logo.png" alt="logo" width="50px">|无代码数据库平台||
+|[SpeedTest-Tracker](https://docs.speedtest-tracker.dev/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/speedtest-tracker/logo.png" alt="logo" width="50px">|None|工具|
+|[Kibana](https://www.elastic.co/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/elastic-kibana/logo.png" alt="logo" width="50px">|基于浏览器的 Elasticsearch 分析和搜索仪表盘||
+|[Gitea Runner](https://gitea.io/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/gitea-runner/logo.png" alt="logo" width="50px">|新一代的代码托管平台||
+|[Elasticsearch](https://www.elastic.co/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/elastic-elasticsearch/logo.png" alt="logo" width="50px">|分布式、RESTful 风格的搜索和数据分析引擎||
+|[Stream Rec 后端服务](https://github.com/hua0512/stream-rec/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/stream-rec-backend/logo.png" alt="logo" width="50px">|自动流媒体录制工具||
+|[DeepLX](https://www.deepl.com/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/deeplx/logo.png" alt="logo" width="50px">|DeepL 免费API|实用工具|
+|[Percona](https://www.percona.com/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/percona/logo.png" alt="logo" width="50px">|关系型数据库||
+|[Outline](https://www.getoutline.com/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/outline/logo.png" alt="logo" width="50px">|您团队的知识库||
+|[Immich 服务端](https://immich.app/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/immich-server/logo.png" alt="logo" width="50px">|高性能自托管照片和视频备份解决方案||
+|[Sentinel Dashboard](https://sentinelguard.io/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/sentinel/logo.png" alt="logo" width="50px">|阿里巴巴流量卫兵||
+|[阅读3 Webview插件](https://github.com/hectorqin/reader/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/reader3-webview/logo.png" alt="logo" width="50px">|阅读3服务器版，不需要手机||
+|[Casdoor](https://casdoor.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/casdoor/logo.png" alt="logo" width="50px">|身份和访问管理(IAM)/单点登录(SSO)平台||
+|[RssHub](https://rsshub.app/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/rsshub/logo.png" alt="logo" width="50px">|None||
+|[qBittorrent](https://www.qbittorrent.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/qbittorrent/logo.png" alt="logo" width="50px">|BitTorrent客户端||
+|[MySQL](https://www.mysql.com/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/mysql/logo.png" alt="logo" width="50px">|开源关系型数据库||
+|[Wiseflow](https://github.com/TeamWiseFlow/wiseflow/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/wiseflow/logo.png" alt="logo" width="50px">|Wiseflow 首席情报官||
+|[Stream Rec](https://github.com/hua0512/stream-rec/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/stream-rec/logo.png" alt="logo" width="50px">|自动流媒体录制工具||
+|[Emby 开心版](https://hub.docker.com/r/lovechen/embyserver)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/emby-lovechen/logo.png" alt="logo" width="50px">|主从式架构的媒体服务器软件||
+|[Immich 机器学习模块](https://immich.app/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/immich-machine-learning/logo.png" alt="logo" width="50px">|高性能自托管照片和视频备份解决方案||
+|[哪吒监控](https://nezha.wiki/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/nezha/logo.png" alt="logo" width="50px">|开源、轻量、易用的服务器监控、运维工具|实用工具|
+|[JellyFin](https://jellyfin.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/jellyfin/logo.png" alt="logo" width="50px">|多媒体应用程序软件套装||
+|[Nacos](https://nacos.io/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/nacos/logo.png" alt="logo" width="50px">|动态服务发现、配置管理和服务管理平台|中间件|
+|[OneDev](https://onedev.io)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/onedev/logo.png" alt="logo" width="50px">|单一 DevOps 平台||
+|[阅读3](https://github.com/hectorqin/reader/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/reader3/logo.png" alt="logo" width="50px">|阅读3服务器版，不需要手机||
+|[Bark](https://bark.day.app/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/bark/logo.png" alt="logo" width="50px">|通知推送工具||
+|[Redis](https://redis.io/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/redis/logo.png" alt="logo" width="50px">|高性能的开源键值数据库||
+|[Dockge](https://dockge.kuma.pet/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/dockge/logo.png" alt="logo" width="50px">|面向堆栈的管理器||
+|[青龙](https://qinglong.online/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/qinglong/logo.png" alt="logo" width="50px">|定时任务管理平台||
+|[Stream Rec WebUI](https://github.com/hua0512/stream-rec/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/stream-rec-frontend/logo.png" alt="logo" width="50px">|自动流媒体录制工具||
+|[Transmission](https://transmissionbt.com/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/transmission/logo.png" alt="logo" width="50px">|BitTorrent客户端||
+|[Alist Aira2插件版](https://alist.nn.ci/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/alist-aria2/logo.png" alt="logo" width="50px">|一个支持多种存储的文件列表程序||
+|[思源笔记](https://b3log.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/siyuan/logo.png" alt="logo" width="50px">|隐私优先的个人知识管理系统||
+|[Alist FFMpeg插件版](https://alist.nn.ci/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/alist-ffmpeg/logo.png" alt="logo" width="50px">|一个支持多种存储的文件列表程序||
+|[Emby](https://emby.media/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/emby/logo.png" alt="logo" width="50px">|主从式架构的媒体服务器软件||
+|[Iframely](https://iframely.com/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/iframely/logo.png" alt="logo" width="50px">|响应式 Web 嵌入和 URL 元的 Iframely API||
+|[Gitea](https://gitea.io/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/gitea/logo.png" alt="logo" width="50px">|新一代的代码托管平台||
+|[IYUU-Plus](https://iyuu.cn/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/iyuu-plus/logo.png" alt="logo" width="50px">|自动辅种工具||
+|[Linkding](https://demo.linkding.link/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/linkding/logo.png" alt="logo" width="50px">|自己托管的书签管理器||
+|[Pixman](https://pixman.io/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/pixman/logo.png" alt="logo" width="50px">|IPTV、M3U8 流媒体代理方案||
+|[爱影CMS](https://www.iycms.com/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/iycms/logo.png" alt="logo" width="50px">|高性能高并发永久免费影视CMS||
+|[PostgreSQL](https://www.postgresql.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/postgresql/logo.png" alt="logo" width="50px">|开源关系型数据库||
+|[MinIO](https://min.io/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/minio/logo.png" alt="logo" width="50px">|开源的对象存储服务器||
+|[CookieCloud](https://github.com/easychen/CookieCloud/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/cookie-cloud/logo.png" alt="logo" width="50px">|自架服务器同步Cookie的小工具||
+|[MariaDB](https://mariadb.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/mariadb/logo.png" alt="logo" width="50px">|开源关系数据库管理系统||
+|[Immich](https://immich.app/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/immich/logo.png" alt="logo" width="50px">|高性能自托管照片和视频备份解决方案||
+|[Mailserver](https://docker-mailserver.github.io/docker-mailserver/latest/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/mailserver/logo.png" alt="logo" width="50px">|可用于生产的全栈但简单的邮件服务器||
+|[SpeedTest](https://librespeed.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/speedtest/logo.png" alt="logo" width="50px">|轻量级的速度测试||
+|[Uptime Kuma](https://uptime.kuma.pet/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/uptime-kuma/logo.png" alt="logo" width="50px">|自托管的监控工具|实用工具|
+|[Telegram Bot Api](https://telegram.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/telegram-bot-api/logo.png" alt="logo" width="50px">|Telegram Bot API 服务器||

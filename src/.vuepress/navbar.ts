@@ -4,7 +4,14 @@ export default navbar([
   "/",
   "/docs/",
   "/faq/",
-  "/thirdStores/",
+  {
+    text: "第三方应用商店",
+    icon: "cube",
+    children: [
+      "/thirdStores/okxlin/",
+      "/thirdStores/QYG2297248353/",
+    ]
+  },
   {
     text: "服务状态监控",
     link: "https://status.1panel.top/",

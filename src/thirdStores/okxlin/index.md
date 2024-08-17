@@ -1,4 +1,8 @@
-# 1Panel 应用商店的首个非官方应用适配库 - okxlin/appstore
+---
+title: okxlin/appstore
+---
+
+## 1Panel 应用商店的首个非官方应用适配库
 
 [![**点我打赏，用爱发电**](https://pic1.afdiancdn.com/user/23e549ae343011ee8e395254001e7c00/common/a9646d838a96c60f68a6dc21a9013aee_w1440_h360_s180.png?imageView2/1/w/3000/h/800)](https://afdian.net/a/dockerapps)
 

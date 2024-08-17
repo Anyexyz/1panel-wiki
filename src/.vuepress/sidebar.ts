@@ -345,5 +345,44 @@ export default sidebar({
   ],
   "/faq/": [
     "install.md",
+  ],
+  "/thirdStores/": [
+    {
+      text: "概述",
+      prefix: "/thirdStores/",
+      link: "index.md"
+    },
+    {
+      text: "okxlin",
+      prefix: "/thirdStores/",
+      collapsible: true,
+      expanded: true,
+      children: [
+        {
+          text: "仓库介绍",
+          link: "okxlin/index.md"
+        },
+        {
+          text: "应用列表",
+          link: "okxlin/app_list.md"
+        }
+      ]
+    },
+    {
+      text: "QYG2297248353",
+      prefix: "/thirdStores/",
+      collapsible: true,
+      expanded: true,
+      children: [
+        {
+          text: "仓库介绍",
+          link: "QYG2297248353/index.md"
+        },
+        {
+          text: "应用列表",
+          link: "QYG2297248353/app_list.md"
+        }
+      ]
+    }
   ]
 });
