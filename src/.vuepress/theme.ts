@@ -31,6 +31,7 @@ export default hopeTheme({
   sidebar,
   repo: "Anyexyz/1panel-wiki",
   docsRepo: "https://github.com/Anyexyz/1panel-wiki",
+  docsDir: "src",
   copyright: 'Copyright © 2024 <a href="https://www.1panel.wiki">1Panel Wiki</a>. All Rights Reserved.',
   displayFooter: true,
 
