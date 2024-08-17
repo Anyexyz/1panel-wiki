@@ -8,7 +8,7 @@
     2.全局设置中的小项，比如默认规则-参数规则的第一项，关闭了之后，只影响新建网站，不影响现存网站
     
 
-![img.png](../../../img/waf/global.png){ width="900px" }
+![img.png](../../../img/waf/global.png)
 
 ## 1 黑白名单
 
@@ -59,7 +59,7 @@
     URL 模式：单位时间请求单个 URL 次数超过阈值即触发
     
 
-![img.png](../../../img/waf/cc.png){ width="900px" }
+![img.png](../../../img/waf/cc.png)
 
 
 ### 2.2 攻击频率限制
@@ -69,7 +69,7 @@
     如果某个 IP 一直触发 WAF 规则，则拉黑此 IP  
     场景：某个 IP 一直攻击你的网站，触发了多次规则
 
-![img.png](../../../img/waf/attack_cc.png){ width="900px" }
+![img.png](../../../img/waf/attack_cc.png)
 
 
 ### 2.3 404频率限制    
@@ -79,7 +79,7 @@
     如果某个 IP 的访问一直返回 404 ，则拉黑此 IP  
     场景：扫描器或者恶意爬虫一直爬你的网站
 
-![img.png](../../../img/waf/404.png){ width="900px" }
+![img.png](../../../img/waf/404.png)
 
 
 ## 3 默认规则
@@ -147,7 +147,7 @@
     可以匹配 URL IP Header Host 的参数，并选择相应的动作  
     比如可以选择 URL 为 /login 的比如经过人机验证
 
-![img.png](../../../img/waf/acl.png){ width="900px" }
+![img.png](../../../img/waf/acl.png)
 
 ## 4.2 文件上传限制
 
@@ -155,7 +155,7 @@
 
     可以根据文件后缀限制上传文件的类型
 
-![img.png](../../../img/waf/ext.png){ width="900px" }
+![img.png](../../../img/waf/ext.png)
 
 ## 4.3 地区访问限制
 
@@ -163,7 +163,7 @@
 
     可以限制或者仅允许某些地区的访问
 
-![img.png](../../../img/waf/location.png){ width="900px" }
+![img.png](../../../img/waf/location.png)
 
 ## 4.4 CDN
 
@@ -174,7 +174,7 @@
     从 Header 列表中获取： 从常用的 CDN 携带真实 IP 的 HTTP Header 中获取，取第一个能获取到的值      
     获取 X-Forwarded-For 的上一级代理地址：例如：X-Forwarded-For: client,proxy1,proxy2,proxy3 上一级代理会取最后一个 IP proxy3
 
-![img.png](../../../img/waf/cdn.png){ width="900px" }
+![img.png](../../../img/waf/cdn.png)
 
 
 ## 5 配置
@@ -189,7 +189,7 @@
 
     可以自定义拦截页面
 
-![img.png](../../../img/waf/html.png){ width="900px" }
+![img.png](../../../img/waf/html.png)
 
 
 ### 5.2 恶意 IP 组
