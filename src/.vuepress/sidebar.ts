@@ -342,5 +342,8 @@ export default sidebar({
       prefix: "/docs/",
       link: "contact.md"
     }
+  ],
+  "/faq/": [
+    "install.md",
   ]
 });

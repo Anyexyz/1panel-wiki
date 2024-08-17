@@ -1,9 +1,8 @@
-# 安装
+---
+title: 安装常见问题
+---
 
-参考 [1Panel 文档 - 在线安装](https://1panel.cn/docs/installation/online_installation/) 部分，这里仅作常见安装失败的问题解析。
-
-# 常见Q&A
-> 收集自 1Panel微信群，论坛以及GitHub issue
+参考 [安装部署](/docs/installation/) 部分，这里仅作常见安装失败的问题解析。
 
 ## Q1. 安装过程中提示 `docker 安装失败`
 ```bash
@@ -49,7 +48,7 @@ sh: localhost: unknown operand
 更换受支持的操作系统。
 
 ## Q4. 提示 "ERROR: Unsupported distribution 'xxx'"
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/8186b43660c34a39adac0037915c0f35.png)
+![](./img/image1.png)
 **问题解析：**
 上图的错误是由于 docker 的在线安装脚本不支持该操作系统导致。
 
