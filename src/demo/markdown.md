@@ -315,11 +315,3 @@ npm i -D vuepress-theme-hope
 <iframe src="https://plugin-md-enhance-demo.vuejs.press/snippet/vue-playground.html" width="100%" height="380"/>
 
 - [查看详情](https://theme-hope.vuejs.press/zh/guide/markdown/code/vue-playground.html)
-
-#### 幻灯片
-
-<iframe src="https://plugin-md-enhance-demo.vuejs.press/snippet/revealjs.html" width="100%" height="400"/>
-
-- [查看详情](https://theme-hope.vuejs.press/zh/guide/markdown/content/revealjs.html)
-
-[md-enhance]: https://plugin-md-enhance.vuejs.press/zh/
