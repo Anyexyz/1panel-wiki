@@ -1,6 +1,9 @@
+---
+title: 续签证书
+---
 
-!!! Abstract ""
-
-    点击续签
+::: info
+点击续签
+:::
 
 ![img.png](../../img/websites/certificate_renew.png)
