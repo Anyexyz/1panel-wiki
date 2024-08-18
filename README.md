@@ -1,3 +1,5 @@
+![1panel-wiki](https://socialify.git.ci/Anyexyz/1panel-wiki/image?font=KoHo&forks=1&issues=1&language=1&name=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Auto)
+
 本仓库为 [1Panel 项目](https://github.com/1Panel-dev/1Panel) 的 [第三方 Wiki](https://www.1panel.wiki/)，采用 [VuePress](https://vuepress.vuejs.org/) 框架下的 [VuePress Theme Hope](https://theme-hope.vuejs.press/) 主题构建。
 
 ## 本地开发
