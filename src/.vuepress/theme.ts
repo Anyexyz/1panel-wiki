@@ -36,7 +36,7 @@ export default hopeTheme({
   displayFooter: true,
 
   /* 主题外观配置 */
-  iconAssets: "fontawesome-with-brands",
+  iconAssets: "https://registry.npmmirror.com/@fortawesome/fontawesome-free/6.6.0/files/js/all.min.js",
   darkmode: "switch",
 
   // 配置主题提供的插件
