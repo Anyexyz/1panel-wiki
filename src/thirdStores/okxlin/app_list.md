@@ -258,6 +258,7 @@
 |[Stable Diffusion ComfyUI](https://github.com/thirdscam/SD-WebUI-Docker)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/sd-comfyui/logo.png" alt="logo" width="50px">|最强大、模块化的 stable diffusion GUI，具有图形/节点界面||
 |[Memcached](https://memcached.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/memcached/logo.png" alt="logo" width="50px">|Memcached 是一套分布式的高速缓存系统|工具|
 |[Grafana](https://grafana.com/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/grafana/logo.png" alt="logo" width="50px">|用于监控和可观察性的开源平台|工具|
+|[Docker-OSX](https://github.com/sickcodes/Docker-OSX)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/docker-osx/logo.png" alt="logo" width="50px">|在 Docker 中运行 macOS||
 |[sub2sing-box](https://singbox.nite07.com/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/sub2sing-box/logo.png" alt="logo" width="50px">|将节点和订阅转换为 sing-box 配置||
 |[WireGuard-UI](https://www.wireguard.com/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/wireguard-ui/logo.png" alt="logo" width="50px">|Wireguard 网络界面|工具|
 |[kkFileView](https://kkview.cn/zh-cn/index.html)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/kkfileview/logo.png" alt="logo" width="50px">|一款文件文档在线预览解决方案|工具|
