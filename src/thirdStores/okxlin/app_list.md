@@ -53,6 +53,7 @@
 |[Trilium Notes 中文](https://github.com/Nriver/trilium-translation)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/trilium-cn/logo.png" alt="logo" width="50px">|一个层次化的笔记应用程序，专注于建立大型个人知识库|工具|
 |[Puter](https://puter.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/puter/logo.png" alt="logo" width="50px">|先进的开源互联网操作系统||
 |[ZeroTier-Planet](https://github.com/Jonnyan404/zerotier-planet)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/zerotier-planet/logo.png" alt="logo" width="50px">|具有 Web UI 的 ZeroTier 网络控制器|工具|
+|[Docker-Android](https://github.com/budtmo/docker-android)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/docker-android/logo.png" alt="logo" width="50px">|在 Docker 中运行 Android||
 |[Navidrome Music Server](https://www.navidrome.org)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/navidrome/logo.png" alt="logo" width="50px">|基于 Web 的开源音乐收藏服务器和流媒体||
 |[Linux Command](https://git.io/linux)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/linux-command/logo.png" alt="logo" width="50px">|Linux 命令大全搜索工具||
 |[Moments](https://moments.shiyu.dev/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/moments/logo.png" alt="logo" width="50px">|一个 C# 开发的博客朋友圈平台|建站|
