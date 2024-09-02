@@ -87,6 +87,7 @@
 |[Ugly Avatar](https://txstc55.github.io/ugly-avatar)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/ugly-avatar/logo.png" alt="logo" width="50px">|丑陋头像生成器||
 |[Open WebUI](https://openwebui.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/open-webui/logo.png" alt="logo" width="50px">|大语言模型 (LLMs) 的用户友好型网络界面||
 |[Music Tag Web](https://github.com/xhongc/music-tag-web)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/music-tag-web/logo.png" alt="logo" width="50px">|一款可以编辑歌曲的标题，专辑，艺术家，歌词，封面等信息的应用程序||
+|[Cashbook](https://cashbook.oldmoon.top)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/cashbook/logo.png" alt="logo" width="50px">|个人记账工具||
 |[BT-Panel](https://www.bt.cn/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/baota/logo.png" alt="logo" width="50px">|宝塔面板，服务器运维管理面板|工具|
 |[watchtower](https://github.com/containrrr/watchtower)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/watchtower/logo.png" alt="logo" width="50px">|自动更新 Docker 容器基础镜像的工具|工具|
 |[Telegram Desktop](https://telegram.org)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/telegram/logo.png" alt="logo" width="50px">|适用于Kasm Workspaces 的电报桌面|工具|
@@ -179,6 +180,7 @@
 |[Maddy Mail Server](https://maddy.email)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/maddy-mail/logo.png" alt="logo" width="50px">|可组合的多合一邮件服务器|邮件服务|
 |[Port-Forward-Server](https://gitee.com/tavenli/port-forward)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/port-forward-server/logo.png" alt="logo" width="50px">|Go 语言开发的端口转发工具 (服务端)|工具|
 |[115网盘](https://115.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/115pc/logo.png" alt="logo" width="50px">|115网盘是115科技推出的云存储服务|工具|
+|[AllInOne](https://hub.docker.com/r/youshandefeiyang/allinone)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/allinone/logo.png" alt="logo" width="50px">|直播源代理程序||
 |[Blossom](https://www.wangyunf.com/blossom-doc/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/blossom/logo.png" alt="logo" width="50px">|一个支持私有部署的云端双链笔记软件|工具|
 |[mdserver-web](https://hub.docker.com/r/ddsderek/mdserver-web)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/mdserver-web/logo.png" alt="logo" width="50px">|一款简单 Linux 面板服务||
 |[今日热榜 DailyHot Web](https://hot.imsyy.top)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/dailyhot-web/logo.png" alt="logo" width="50px">|一个聚合了中文热门站点数据的项目(前端)|工具|
@@ -206,6 +208,7 @@
 |[qBittorrent-VNC](https://www.qbittorrent.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/qbittorrent-vnc/logo.png" alt="logo" width="50px">|适用于Kasm Workspaces 的 qBittorrent|工具|
 |[Wallos](https://github.com/ellite/Wallos)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/wallos/logo.png" alt="logo" width="50px">|开源个人订阅跟踪器||
 |[miniPaint](https://hub.docker.com/r/pfav/minipaint)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/minipaint/logo.png" alt="logo" width="50px">|在线图像编辑器，可让您使用HTML5技术创建，编辑图像|工具|
+|[MeTube](https://github.com/alexta69/metube)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/metube/logo.png" alt="logo" width="50px">|媒体下载工具||
 |[Pandora](https://github.com/zhile-io/pandora)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/pandora/logo.png" alt="logo" width="50px">|潘多拉，一个让你呼吸顺畅的 ChatGPT||
 |[ZeroTier-Moon](https://www.zerotier.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/zerotier-moon/logo.png" alt="logo" width="50px">|多点虚拟化网络解决方案|工具|
 |[qBittorrent](https://www.qbittorrent.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/qBittorrent/logo.png" alt="logo" width="50px">|qBittorrent 是一个跨平台的开源 BitTorrent 客户端|工具|
@@ -285,4 +288,5 @@
 |[h5ai](https://hub.docker.com/r/bin20088/h5ai)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/h5ai/logo.png" alt="logo" width="50px">|用于Apache httpd，lighttpd和nginx的HTTP Web服务器索引|工具|
 |[Discourse](https://www.discourse.org)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/discourse/logo.png" alt="logo" width="50px">|开源讨论平台||
 |[ChatGPT Web](https://github.com/Chanzhaoyu/chatgpt-web)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/chatgpt-web/logo.png" alt="logo" width="50px">|使用 express 和 vue3 搭建的支持 ChatGPT 双模型演示网页||
+|[LANraragi](https://lrr.tvc-16.science)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/lanraragi/logo.png" alt="logo" width="50px">|一个开源的漫画存档服务||
 |[dashdot](https://getdashdot.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/dashdot/logo.png" alt="logo" width="50px">|一个简单、现代的服务器仪表板|工具|
