@@ -30,6 +30,7 @@
 |[Pixman](https://pixman.io/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/pixman/logo.png" alt="logo" width="50px">|IPTV、M3U8 流媒体代理方案||
 |[Stream Rec](https://github.com/hua0512/stream-rec/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/stream-rec/logo.png" alt="logo" width="50px">|自动流媒体录制工具||
 |[DeepLX](https://www.deepl.com/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/deeplx/logo.png" alt="logo" width="50px">|DeepL 免费API|实用工具|
+|[Emby Amilys版](https://hub.docker.com/r/lovechen/embyserver)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/emby-amilys/logo.png" alt="logo" width="50px">|主从式架构的媒体服务器软件||
 |[Halo](https://halo.run/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/halo/logo.png" alt="logo" width="50px">|强大易用的开源建站工具||
 |[Mailserver](https://docker-mailserver.github.io/docker-mailserver/latest/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/mailserver/logo.png" alt="logo" width="50px">|可用于生产的全栈但简单的邮件服务器||
 |[Bark](https://bark.day.app/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/bark/logo.png" alt="logo" width="50px">|通知推送工具||
@@ -60,7 +61,7 @@
 |[Nacos](https://nacos.io/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/nacos/logo.png" alt="logo" width="50px">|动态服务发现、配置管理和服务管理平台|中间件|
 |[MoviePilot](https://github.com/jxxghp/MoviePilot/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/movie-pilot/logo.png" alt="logo" width="50px">|NAS媒体库自动化管理工具||
 |[Immich](https://immich.app/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/immich/logo.png" alt="logo" width="50px">|高性能自托管照片和视频备份解决方案||
-|[Emby 开心版](https://hub.docker.com/r/lovechen/embyserver)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/emby-lovechen/logo.png" alt="logo" width="50px">|主从式架构的媒体服务器软件||
+|[Emby Lovechen版](https://hub.docker.com/r/lovechen/embyserver)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/emby-lovechen/logo.png" alt="logo" width="50px">|主从式架构的媒体服务器软件||
 |[爱影CMS](https://www.iycms.com/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/iycms/logo.png" alt="logo" width="50px">|高性能高并发永久免费影视CMS||
 |[JellyFin](https://jellyfin.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/jellyfin/logo.png" alt="logo" width="50px">|多媒体应用程序软件套装||
 |[Redis](https://redis.io/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/redis/logo.png" alt="logo" width="50px">|高性能的开源键值数据库||
