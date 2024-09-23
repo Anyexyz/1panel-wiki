@@ -114,6 +114,7 @@
 |[nginxWebUI](https://www.nginxwebui.cn)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/nginxwebui/logo.png" alt="logo" width="50px">|Nginx 网页管理工具|Web 服务器|
 |[Discourse](https://www.discourse.org)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/discourse/logo.png" alt="logo" width="50px">|开源讨论平台||
 |[NPS](https://ehang-io.github.io/nps)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/nps/logo.png" alt="logo" width="50px">|轻量级、高性能、功能强大的内网穿透代理服务器|工具|
+|[PeerBanHelper](https://pbh-btn.github.io/pbh-docs)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/peerbanhelper/logo.png" alt="logo" width="50px">|BT 客户端反恶意吸血工具||
 |[IYUUPlus](http://doc.iyuu.cn)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/iyuuplus/logo.png" alt="logo" width="50px">|自动辅种工具||
 |[Blossom](https://www.wangyunf.com/blossom-doc/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/blossom/logo.png" alt="logo" width="50px">|一个支持私有部署的云端双链笔记软件|工具|
 |[mosdns](https://hub.docker.com/r/irinesistiana/mosdns)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/mosdns/logo.png" alt="logo" width="50px">|一个插件化的 DNS 转发/分流器|工具|
@@ -277,6 +278,7 @@
 |[JSON Hero](https://jsonhero.io)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/jsonhero/logo.png" alt="logo" width="50px">|使阅读和理解 JSON 文件变得简单|工具|
 |[中文 DOS 游戏](https://dos.lol/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/dosgame/logo.png" alt="logo" width="50px">|中文 DOS 游戏合集|休闲游戏|
 |[Diosic](https://github.com/Reknij/diosic)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/diosic/logo.png" alt="logo" width="50px">|一个开源的基于网络的音乐收集服务器和流媒体|工具|
+|[Rembg](https://github.com/danielgatis/rembg)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/rembg/logo.png" alt="logo" width="50px">|图像背景去除工具||
 |[iPerf](https://software.es.net/iperf/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/iperf/logo.png" alt="logo" width="50px">|网络性能测试工具||
 |[Hasty Paste](https://enchantedcode.co.uk/hasty-paste/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/hasty-paste/logo.png" alt="logo" width="50px">|一个快速粘贴文本并共享的地方|工具|
 |[ALS](https://github.com/wikihost-opensource/als)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/als/logo.png" alt="logo" width="50px">|Another Looking-glass Server，测速服务端|工具|
