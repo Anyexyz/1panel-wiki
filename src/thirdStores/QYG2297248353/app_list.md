@@ -47,6 +47,7 @@
 |[](https://nezha.wiki/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/nezha/logo.png" alt="logo" width="50px">|||
 |[](https://nacos.io/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/nacos/logo.png" alt="logo" width="50px">|||
 |[](https://alist.nn.ci/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/alist-aria2/logo.png" alt="logo" width="50px">|||
+|[](https://github.com/cnk3x/xunlei/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/xunlei-cnk3x/logo.png" alt="logo" width="50px">|||
 |[](https://www.elastic.co/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/elastic-elasticsearch/logo.png" alt="logo" width="50px">|||
 |[](https://www.postgresql.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/postgresql/logo.png" alt="logo" width="50px">|||
 |[](https://artalk.js.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/artalk/logo.png" alt="logo" width="50px">|||
