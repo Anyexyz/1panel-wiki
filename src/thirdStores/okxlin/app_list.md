@@ -235,6 +235,7 @@
 |[ddns-go](https://github.com/jeessy2/ddns-go)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/ddns-go/logo.png" alt="logo" width="50px">|自动获得你的公网 IPv4 或 IPv6 地址，并解析到对应的域名服务|工具|
 |[Bililive-go](https://github.com/hr3lxphr6j/bililive-go)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/bililive-go/logo.png" alt="logo" width="50px">|一个支持多种直播平台的直播录制工具|工具|
 |[RSS Reader](https://rss.lass.cc)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/rss-reader/logo.png" alt="logo" width="50px">|一个极简的 RSS 在线浏览工具|工具|
+|[NAS-Tools](https://github.com/hsuyelin/nas-tools)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/nas-tools/logo.png" alt="logo" width="50px">|NAS 媒体库管理工具||
 |[迅雷](https://www.xunlei.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/xunlei/logo.png" alt="logo" width="50px">|提取自群晖平台的迅雷下载套件||
 |[FlexGet](https://flexget.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/flexget/logo.png" alt="logo" width="50px">|多用途自动化工具|工具|
 |[OneDev](https://onedev.io)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/onedev/logo.png" alt="logo" width="50px">|具有 CI/CD 和 Kanban 的自托管 Git 服务器||
