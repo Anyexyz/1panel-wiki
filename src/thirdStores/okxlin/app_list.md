@@ -90,6 +90,7 @@
 |[Headscale-UI](https://github.com/gurucomputing/headscale-ui)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/headscale-ui/logo.png" alt="logo" width="50px">|Headscale 与 Tailscale 兼容的协调服务器的 Web 前端|工具|
 |[Moments](https://m.mblog.club)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/moments1/logo.png" alt="logo" width="50px">|极简朋友圈||
 |[aaPanel](https://www.aapanel.com/new/index.html)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/aaPanel/logo.png" alt="logo" width="50px">|宝塔面板国际版，开源的Linux面板|工具|
+|[AutoBangumi](https://www.autobangumi.org)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/autobangumi/logo.png" alt="logo" width="50px">|全自动追番工具||
 |[kkFileView](https://kkview.cn/zh-cn/index.html)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/kkfileview/logo.png" alt="logo" width="50px">|一款文件文档在线预览解决方案|工具|
 |[Sun-Panel](https://sun-panel-doc.enianteam.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/sun-panel/logo.png" alt="logo" width="50px">|一个服务器、NAS导航面板、Homepage、浏览器首页|建站|
 |[YOURLS](https://yourls.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/yourls/logo.png" alt="logo" width="50px">|PHP驱动的标准自托管URL缩短器|工具|
@@ -170,6 +171,7 @@
 |[ModStartBlog](https://modstart.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/modstartblog/logo.png" alt="logo" width="50px">|开源个人博客系统|建站|
 |[SeaTable](https://seatable.cn)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/seatable/logo.png" alt="logo" width="50px">|一款以智能表格为基础的新型数字化平台|工具|
 |[MCSManager Web](https://hub.docker.com/r/alisaqaq/mcsmanager-web)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/mcsmanager-web/logo.png" alt="logo" width="50px">|支持大部分游戏服务端和控制台程序的管理面板(前端)|休闲游戏|
+|[Certimate](https://docs.certimate.me)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/certimate/logo.png" alt="logo" width="50px">|开源的 SSL 证书管理工具||
 |[Headscale-WebUI](https://github.com/iFargle/headscale-webui)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/headscale-webui/logo.png" alt="logo" width="50px">|适用于小规模部署的简单 Headscale 网络用户界面|工具|
 |[BT-Panel](https://www.bt.cn/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/baota/logo.png" alt="logo" width="50px">|宝塔面板，服务器运维管理面板|工具|
 |[ais-ninja](https://github.com/jarvis2f/ais-ninja)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/ais-ninja/logo.png" alt="logo" width="50px">|基于 ChatGPT 的 Web 应用程序|工具|
