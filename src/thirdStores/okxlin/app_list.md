@@ -234,6 +234,7 @@
 |[PicX](https://picx.xpoet.cn)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/picx/logo.png" alt="logo" width="50px">|一款基于 GitHub API 开发的图床工具|工具|
 |[OpenResume](https://www.open-resume.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/openresume/logo.png" alt="logo" width="50px">|一个功能强大的开源简历生成器和简历解析器|工具|
 |[Bark](https://bark.day.app)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/bark/logo.png" alt="logo" width="50px">|iOS 消息推送工具||
+|[Stash](https://stashapp.cc)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/stash/logo.png" alt="logo" width="50px">|媒体管理工具||
 |[ddns-go](https://github.com/jeessy2/ddns-go)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/ddns-go/logo.png" alt="logo" width="50px">|自动获得你的公网 IPv4 或 IPv6 地址，并解析到对应的域名服务|工具|
 |[Bililive-go](https://github.com/hr3lxphr6j/bililive-go)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/bililive-go/logo.png" alt="logo" width="50px">|一个支持多种直播平台的直播录制工具|工具|
 |[RSS Reader](https://rss.lass.cc)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/rss-reader/logo.png" alt="logo" width="50px">|一个极简的 RSS 在线浏览工具|工具|
