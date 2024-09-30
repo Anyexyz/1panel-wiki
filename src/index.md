@@ -34,7 +34,7 @@ highlights:
     - title: 社区监控探针
       icon: signal
       details: 社区运营的监控探针，实时监控 1Panel 相关站点的运行状态和性能。
-      link: https://status.1panel.top/
+      link: https://status.anye.xyz/
     - title: 社区贡献
       icon: pen-nib
       details: 欢迎社区成员提交扩展、分享经验或完善文档。

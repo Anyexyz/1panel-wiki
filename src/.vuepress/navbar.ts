@@ -14,7 +14,7 @@ export default navbar([
   },
   {
     text: "服务状态监控",
-    link: "https://status.1panel.top/",
+    link: "https://status.anye.xyz/",
     icon: "signal"
   },
   "/about"
