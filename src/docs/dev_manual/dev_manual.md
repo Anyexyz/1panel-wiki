@@ -82,6 +82,6 @@ log:
 
 :::info
 - 进入工程目录下的子目录 frontend, 用 npm i 安装前端依赖包  
-- 安装完成后，使用 npm run dev 命名启动前端,前端启动后即可通过 http://localhost:4004/ 地址访问
+- 安装完成后，使用 npm run dev 命名启动前端,前端启动后即可通过 `http://localhost:4004/` 地址访问
 - 使用默认用户名 admin 默认密码 admin123 登录
 :::
