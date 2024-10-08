@@ -34,6 +34,7 @@
 |[Meting-API](https://github.com/xizeyoupan/Meting-API)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/meting-api/logo.png" alt="logo" width="50px">|开源的音乐 API 服务||
 |[Speedtest-X](https://github.com/BadApple9/speedtest-x)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/speedtest-x/logo.png" alt="logo" width="50px">|自托管的速度测试应用程序，提供出色的测试结果数据表|工具|
 |[IT-Tools](https://it-tools.tech)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/it-tools/logo.png" alt="logo" width="50px">|为开发人员提供方便的在线工具集合，具有出色的用户体验||
+|[MDC-NG](https://hub.docker.com/r/mdcng/mdc)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/mdc-ng/logo.png" alt="logo" width="50px">|你的次世代媒体库管理方案||
 |[Cloudreve](https://cloudreve.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/cloudreve/logo.png" alt="logo" width="50px">|支持多家云存储的云盘系统|工具|
 |[川虎 Chat (Chuanhu Chat)](https://github.com/GaiZhenbiao/ChuanhuChatGPT)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/chuanhuchat/logo.png" alt="logo" width="50px">|为多种 LLM 提供了一个轻快好用的 Web 图形界面和众多附加功能||
 |[Trilium Notes](https://github.com/zadam/trilium)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/trilium/logo.png" alt="logo" width="50px">|一个层次化的笔记应用程序，专注于建立大型个人知识库|工具|
@@ -130,7 +131,7 @@
 |[Nitter](https://nitter.net)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/nitter/logo.png" alt="logo" width="50px">|匿名浏览 Twitter 的开源工具||
 |[Woodpecker CI](https://woodpecker-ci.org)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/woodpecker/logo.png" alt="logo" width="50px">|具有极强可扩展性的简单 CI 引擎|CI/CD|
 |[Geekbench](https://hub.docker.com/r/davidsarkany/geekbench)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/geekbench/logo.png" alt="logo" width="50px">|基准测试工具 Docker 版||
-|[文件快递柜-轻量 (FileCodeBox-Lite)](https://share.lanol.cn)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/filecodebox/logo.png" alt="logo" width="50px">|匿名口令分享文本，文件，像拿快递一样取文件|工具|
+|[FileCodeBox](https://share.lanol.cn)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/filecodebox/logo.png" alt="logo" width="50px">|文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件||
 |[Puter](https://puter.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/puter/logo.png" alt="logo" width="50px">|先进的开源互联网操作系统||
 |[qBittorrent](https://www.qbittorrent.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/qBittorrent/logo.png" alt="logo" width="50px">|qBittorrent 是一个跨平台的开源 BitTorrent 客户端|工具|
 |[Telegram Desktop](https://telegram.org)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/telegram/logo.png" alt="logo" width="50px">|适用于Kasm Workspaces 的电报桌面|工具|
@@ -146,6 +147,7 @@
 |[EasyNode](https://github.com/chaos-zhu/easynode)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/easynode/logo.png" alt="logo" width="50px">|一个 Linux 服务器 WEB SSH 面板||
 |[Immich](https://immich.app)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/immich/logo.png" alt="logo" width="50px">|高性能的自托管照片和视频备份方案||
 |[Docker-Android](https://github.com/budtmo/docker-android)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/docker-android/logo.png" alt="logo" width="50px">|在 Docker 中运行 Android||
+|[MDCX](https://hub.docker.com/r/stainless403/mdcx-builtin-gui-base)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/mdcx/logo.png" alt="logo" width="50px">|电影元数据搜刮器||
 |[PicImpact](https://pic.besscroft.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/picimpact/logo.png" alt="logo" width="50px">|摄影佬专用相片集||
 |[Sub-Store](https://hub.docker.com/r/xream/sub-store)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/sub-store/logo.png" alt="logo" width="50px">|适用于 QX、Loon、Surge、Stash 和 Shadowrocket 的高级订阅管理器||
 |[ntfy](https://ntfy.sh/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/ntfy/logo.png" alt="logo" width="50px">|基于 HTTP 的简单 pub-sub 通知服务||
@@ -206,7 +208,7 @@
 |[ZeroTier-Planet](https://github.com/Jonnyan404/zerotier-planet)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/zerotier-planet/logo.png" alt="logo" width="50px">|具有 Web UI 的 ZeroTier 网络控制器|工具|
 |[FreshRSS](https://freshrss.org)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/freshrss/logo.png" alt="logo" width="50px">|自托管的 RSS 和 Atom 订阅源聚合器||
 |[雷池 Web 应用防火墙(Safeline WAF)](https://waf-ce.chaitin.cn/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/safeline/logo.png" alt="logo" width="50px">|一款足够简单、足够好用、足够强的免费 WAF|工具|
-|[极光面板 Aurora](https://github.com/Aurora-Admin-Panel/deploy)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/aurora/logo.png" alt="logo" width="50px">|一个多服务器端口租用管理面板|工具|
+|[Aurora](https://github.com/Aurora-Admin-Panel/deploy)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/aurora/logo.png" alt="logo" width="50px">|极光面板-一个多服务器端口租用管理面板||
 |[LinkStack](https://linkstack.org)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/linkstack/logo.png" alt="logo" width="50px">|高度可定制的链接共享平台，用户界面直观易用||
 |[PGAdmin4](https://www.pgadmin.org)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/pgadmin4/logo.png" alt="logo" width="50px">|PostgreSQL 的开源管理和开发平台|工具|
 |[OpenVPN Access Server](https://openvpn.net/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/openvpn-as/logo.png" alt="logo" width="50px">|开源 VPN 解决方案||
@@ -235,7 +237,7 @@
 |[OpenResume](https://www.open-resume.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/openresume/logo.png" alt="logo" width="50px">|一个功能强大的开源简历生成器和简历解析器|工具|
 |[Bark](https://bark.day.app)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/bark/logo.png" alt="logo" width="50px">|iOS 消息推送工具||
 |[Stash](https://stashapp.cc)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/stash/logo.png" alt="logo" width="50px">|媒体管理工具||
-|[ddns-go](https://github.com/jeessy2/ddns-go)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/ddns-go/logo.png" alt="logo" width="50px">|自动获得你的公网 IPv4 或 IPv6 地址，并解析到对应的域名服务|工具|
+|[ddns-go](https://github.com/jeessy2/ddns-go)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/ddns-go/logo.png" alt="logo" width="50px">|自动获得你的公网 IPv4 或 IPv6 地址，并解析到对应的域名服务||
 |[Bililive-go](https://github.com/hr3lxphr6j/bililive-go)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/bililive-go/logo.png" alt="logo" width="50px">|一个支持多种直播平台的直播录制工具|工具|
 |[RSS Reader](https://rss.lass.cc)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/rss-reader/logo.png" alt="logo" width="50px">|一个极简的 RSS 在线浏览工具|工具|
 |[NAS-Tools](https://github.com/hsuyelin/nas-tools)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/nas-tools/logo.png" alt="logo" width="50px">|NAS 媒体库管理工具||
