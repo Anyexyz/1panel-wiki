@@ -213,6 +213,7 @@
 |[wgcf-socks5-proxy](https://github.com/activeliang/wgcf-socks5-proxy)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/wgcf-socks5-proxy/logo.png" alt="logo" width="50px">|docker 里的 CloudFlare warp socks5|工具|
 |[sub2clash](https://www.nite07.com/sub)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/sub2clash/logo.png" alt="logo" width="50px">|将节点和订阅转换为 clash(meta) 配置||
 |[Firefox Browser](https://www.mozilla.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/firefox-browser/logo.png" alt="logo" width="50px">|一个免费的开源网络浏览器|工具|
+|[Ikaros](https://ikaros.run)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/ikaros/logo.png" alt="logo" width="50px">|专注于 ACGMN 的内容管理系统 (CMS)||
 |[icat_lite](https://miao.o-o.zone)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/icat_lite/logo.png" alt="logo" width="50px">|喵空间社区程序 Lite 版||
 |[Vue Color Avatar](https://vue-color-avatar.leoku.dev)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/vue-color-avatar/logo.png" alt="logo" width="50px">|一个纯前端实现的头像生成网站||
 |[雷池 Web 应用防火墙(Safeline WAF)](https://waf-ce.chaitin.cn/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/safeline/logo.png" alt="logo" width="50px">|一款足够简单、足够好用、足够强的免费 WAF|工具|
