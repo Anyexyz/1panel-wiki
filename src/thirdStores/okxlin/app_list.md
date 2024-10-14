@@ -2,8 +2,10 @@
 
 |应用|图标|描述|类型|
 |:---:|:---:|:---:|:---:|
+|[TinyFileManager](https://tinyfilemanager.github.io)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/tinyfilemanager/logo.png" alt="logo" width="50px">|一个基于 PHP 的轻量级文件管理器||
 |[Pandora](https://github.com/zhile-io/pandora)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/pandora/logo.png" alt="logo" width="50px">|潘多拉，一个让你呼吸顺畅的 ChatGPT||
 |[ZFile](https://www.zfile.vip/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/zfile/logo.png" alt="logo" width="50px">|基于 Java 的在线网盘程序|工具|
+|[MiGPT GUI](https://migptgui.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/mi-gpt-gui/logo.png" alt="logo" width="50px">|安全、快速的给你的小爱音箱接入人工智能||
 |[Pingvin Share](https://github.com/stonith404/pingvin-share)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/pingvin-share/logo.png" alt="logo" width="50px">|一个可自建的文件分享平台|工具|
 |[MDC-NG](https://hub.docker.com/r/mdcng/mdc)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/mdc-ng/logo.png" alt="logo" width="50px">|你的次世代媒体库管理方案||
 |[Discuz!](https://www.discuz.vip/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/discuz/logo.png" alt="logo" width="50px">|开源社交建站系统|建站|
@@ -19,6 +21,7 @@
 |[AdGuardHome](https://hub.docker.com/r/adguard/adguardhome)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/adguardhome/logo.png" alt="logo" width="50px">|自由且开源的，功能强大的网络广告和跟踪器屏蔽DNS服务器||
 |[ais-ninja](https://github.com/jarvis2f/ais-ninja)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/ais-ninja/logo.png" alt="logo" width="50px">|基于 ChatGPT 的 Web 应用程序|工具|
 |[go-chatgpt-api](https://github.com/linweiyuan/go-chatgpt-api)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/go-chatgpt-api/logo.png" alt="logo" width="50px">|一个尝试绕过 Cloudflare 来使用 ChatGPT 接口的程序|工具|
+|[秒达工具箱](https://mdgjx.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/laftools/logo.png" alt="logo" width="50px">|免费安全的一键式呼出工具箱||
 |[CloudDrive](https://www.clouddrive2.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/clouddrive/logo.png" alt="logo" width="50px">|一个强大的多云盘管理工具||
 |[PeerBanHelper](https://pbh-btn.github.io/pbh-docs)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/peerbanhelper/logo.png" alt="logo" width="50px">|BT 客户端反恶意吸血工具||
 |[腾飞 WebOS](https://os.tenfell.cn)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/webos/logo.png" alt="logo" width="50px">|一款仿 Win11，适合创建属于自己的私有云/存储的网页系统|工具|
@@ -41,6 +44,7 @@
 |[LibreSpeed](https://librespeed.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/librespeed/logo.png" alt="logo" width="50px">|开源速度测试工具||
 |[Domain Admin](https://github.com/mouday/domain-admin)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/domain-admin/logo.png" alt="logo" width="50px">|域名和SSL证书监测平台|工具|
 |[Glance](https://github.com/glanceapp/glance)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/glance/logo.png" alt="logo" width="50px">|一个自托管仪表板||
+|[EasyTier](https://www.easytier.top)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/easytier/logo.png" alt="logo" width="50px">|一个简单、安全、去中心化的内网穿透 VPN 组网方案||
 |[ntfy](https://ntfy.sh/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/ntfy/logo.png" alt="logo" width="50px">|基于 HTTP 的简单 pub-sub 通知服务||
 |[Koodo Reader](https://koodo.960960.xyz)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/koodo-reader/logo.png" alt="logo" width="50px">|一个跨平台的电子书阅读器||
 |[Homepage](https://gethomepage.dev)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/homepage/logo.png" alt="logo" width="50px">|一个现代的、完全静态的、快速的、安全的、完全代理的、高度可定制的应用程序仪表板|工具|
@@ -51,6 +55,8 @@
 |[卷王 SurveyKing](https://surveyking.cn)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/surveyking/logo.png" alt="logo" width="50px">|更好的问卷考试系统|工具|
 |[Verdaccio](https://verdaccio.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/verdaccio/logo.png" alt="logo" width="50px">|本地私有 NPM 注册中心||
 |[Discourse](https://www.discourse.org)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/discourse/logo.png" alt="logo" width="50px">|开源讨论平台||
+|[Luxirty Search](https://search.luxirty.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/luxirty-search/logo.png" alt="logo" width="50px">|一个搜索引擎，基于 Google||
+|[MetaTube SDK Go](https://metatube-community.github.io)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/metatube-sdk-go/logo.png" alt="logo" width="50px">|MetaTube 服务的后端||
 |[Port-Forward-Server](https://gitee.com/tavenli/port-forward)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/port-forward-server/logo.png" alt="logo" width="50px">|Go 语言开发的端口转发工具 (服务端)|工具|
 |[Diosic](https://github.com/Reknij/diosic)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/diosic/logo.png" alt="logo" width="50px">|一个开源的基于网络的音乐收集服务器和流媒体|工具|
 |[Docker-Android](https://github.com/budtmo/docker-android)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/docker-android/logo.png" alt="logo" width="50px">|在 Docker 中运行 Android||
@@ -233,6 +239,7 @@
 |[SmartDNS](https://pymumu.github.io/smartdns)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/smartdns/logo.png" alt="logo" width="50px">|一个运行在本地的 DNS 服务器|工具|
 |[ServerStatus](https://github.com/cppla/ServerStatus)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/serverstatus/logo.png" alt="logo" width="50px">|多服务器状态监控||
 |[AliyunDrive WebDAV](https://github.com/messense/aliyundrive-webdav)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/aliyundrive-webdav/logo.png" alt="logo" width="50px">|阿里云盘 WebDAV 服务||
+|[花生壳](https://hsk.oray.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/phtunnel/logo.png" alt="logo" width="50px">|花生壳内网穿透服务||
 |[Headscale-DERP](https://hub.docker.com/r/fredliang/derper)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/headscale-derp/logo.png" alt="logo" width="50px">|Headscale 的中继服务|工具|
 |[Synapse-admin](https://hub.docker.com/r/awesometechnologies/synapse-admin)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/synapse-admin/logo.png" alt="logo" width="50px">|Synapse 管理界面|工具|
 |[DPanel](https://donknap.github.io/dpanel-docs)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/dpanel/logo.png" alt="logo" width="50px">|Docker 可视化面板系统||
