@@ -34,6 +34,7 @@
 |[Dockge](https://dockge.kuma.pet)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/dockge/logo.png" alt="logo" width="50px">|一个精美的、易于使用的、反应式的自托管 docker compose.yaml 面向堆栈的管理器|工具|
 |[Bitwarden](https://bitwarden.com/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/bitwarden/logo.png" alt="logo" width="50px">|一个开源的密码管理服务|工具|
 |[tldraw](https://www.tldraw.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/tldraw/logo.png" alt="logo" width="50px">|一款协作式数字白板|工具|
+|[nezha-dash](https://nezha-cf.buycoffee.top/zh)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/nezha-dash/logo.png" alt="logo" width="50px">|一个基于 Next.js 和 哪吒监控 的仪表盘|工具|
 |[Plex Media Server](https://www.plex.tv)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/plex/logo.png" alt="logo" width="50px">|Plex 媒体服务器||
 |[RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/rss-to-telegram-bot/logo.png" alt="logo" width="50px">|关心你的阅读体验的 Telegram RSS 机器人|工具|
 |[gh-proxy](https://github.com/hunshcn/gh-proxy)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/gh-proxy/logo.png" alt="logo" width="50px">|GitHub release、archive 以及项目文件的加速项目|工具|
@@ -110,6 +111,7 @@
 |[Sun-Panel](https://sun-panel-doc.enianteam.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/sun-panel/logo.png" alt="logo" width="50px">|一个服务器、NAS导航面板、Homepage、浏览器首页|建站|
 |[Rathole](https://github.com/rapiz1/rathole)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/rathole/logo.png" alt="logo" width="50px">|安全、稳定、高性能的内网穿透工具||
 |[FlexGet](https://flexget.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/flexget/logo.png" alt="logo" width="50px">|多用途自动化工具|工具|
+|[nezha-agent](https://nezha.wiki/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/nezha-agent/logo.png" alt="logo" width="50px">|哪吒监控 - Agent|工具|
 |[ModStartBlog](https://modstart.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/modstartblog/logo.png" alt="logo" width="50px">|开源个人博客系统|建站|
 |[Alist](https://github.com/alist-org/alist)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/alist/logo.png" alt="logo" width="50px">|一个支持多存储的文件列表程序|工具|
 |[Next Terminal](https://next-terminal.typesafe.cn/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/next-terminal/logo.png" alt="logo" width="50px">|一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议|工具|
@@ -253,6 +255,7 @@
 |[Aurora](https://github.com/Aurora-Admin-Panel/deploy)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/aurora/logo.png" alt="logo" width="50px">|极光面板-一个多服务器端口租用管理面板||
 |[uuWAF](https://waf.uusec.com/#/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/uuwaf/logo.png" alt="logo" width="50px">|南墙 WEB 应用防火墙||
 |[Microsoft 365 E5 Renew X](https://github.com/hongyonghan/Docker_Microsoft365_E5_Renew_X)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/ms365-e5-renew-x/logo.png" alt="logo" width="50px">|Docker 版本的 Microsoft 365 E5 调用 API 续订服务|工具|
+|[nezha-dashboard](https://nezha.wiki/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/nezha-dashboard/logo.png" alt="logo" width="50px">|哪吒监控 - Dashboard|工具|
 |[1Panel](https://1panel.cn)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/1panel/logo.png" alt="logo" width="50px">|现代化、开源的 Linux 服务器运维管理面板|工具|
 |[RedisInsight](https://redis.com/redis-enterprise/redis-insight/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/redisinsight/logo.png" alt="logo" width="50px">|Redis 图形管理工具||
 |[Rembg](https://github.com/danielgatis/rembg)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/rembg/logo.png" alt="logo" width="50px">|图像背景去除工具||
