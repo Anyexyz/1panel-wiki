@@ -2,10 +2,12 @@
 
 |应用|图标|描述|类型|
 |:---:|:---:|:---:|:---:|
+|[](https://github.com/stonith404/pingvin-share/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/pingvin-share/logo.png" alt="logo" width="50px">|||
 |[](https://onedev.io)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/onedev/logo.png" alt="logo" width="50px">|||
 |[](https://qinglong.online/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/qinglong/logo.png" alt="logo" width="50px">|||
 |[](https://docs.speedtest-tracker.dev/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/speedtest-tracker/logo.png" alt="logo" width="50px">|||
 |[](https://immich.app/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/immich-server/logo.png" alt="logo" width="50px">|||
+|[](https://www.kimai.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/kimai/logo.png" alt="logo" width="50px">|||
 |[](https://nocodb.com/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/nocodb/logo.png" alt="logo" width="50px">|||
 |[](https://dockge.kuma.pet/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/dockge/logo.png" alt="logo" width="50px">|||
 |[](https://bark.day.app/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/bark/logo.png" alt="logo" width="50px">|||
@@ -57,12 +59,14 @@
 |[](https://telegram.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/telegram-bot-api/logo.png" alt="logo" width="50px">|||
 |[](https://gitea.io/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/gitea/logo.png" alt="logo" width="50px">|||
 |[](https://pixman.io/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/pixman/logo.png" alt="logo" width="50px">|||
+|[](https://www.traccar.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/traccar/logo.png" alt="logo" width="50px">|||
 |[](https://www.percona.com/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/percona/logo.png" alt="logo" width="50px">|||
 |[](https://immich.app/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/immich/logo.png" alt="logo" width="50px">|||
 |[](https://githubim.com/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/wukongim/logo.png" alt="logo" width="50px">|||
 |[](https://uptime.kuma.pet/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/uptime-kuma/logo.png" alt="logo" width="50px">|||
 |[](https://www.getoutline.com/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/outline/logo.png" alt="logo" width="50px">|||
 |[](https://github.com/jxxghp/MoviePilot/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/movie-pilot/logo.png" alt="logo" width="50px">|||
+|[](https://github.com/aceberg/WatchYourLAN/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/watchyourlan/logo.png" alt="logo" width="50px">|||
 |[](https://github.com/hua0512/stream-rec/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/stream-rec/logo.png" alt="logo" width="50px">|||
 |[](https://demo.linkding.link/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/linkding/logo.png" alt="logo" width="50px">|||
 |[](https://www.qbittorrent.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/qbittorrent/logo.png" alt="logo" width="50px">|||
