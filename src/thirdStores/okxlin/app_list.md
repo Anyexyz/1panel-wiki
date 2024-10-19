@@ -26,6 +26,7 @@
 |[PeerBanHelper](https://pbh-btn.github.io/pbh-docs)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/peerbanhelper/logo.png" alt="logo" width="50px">|BT 客户端反恶意吸血工具||
 |[腾飞 WebOS](https://os.tenfell.cn)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/webos/logo.png" alt="logo" width="50px">|一款仿 Win11，适合创建属于自己的私有云/存储的网页系统|工具|
 |[Woodpecker CI](https://woodpecker-ci.org)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/woodpecker/logo.png" alt="logo" width="50px">|具有极强可扩展性的简单 CI 引擎|CI/CD|
+|[PageSpy](https://pagespy.org)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/pagespy/logo.png" alt="logo" width="50px">|像使用浏览器控制台调试一样简单||
 |[Tianji](https://tianji.msgbyte.com/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/tianji/logo.png" alt="logo" width="50px">|Tianji 是一款开源的 all-in-one 数据洞察中心|工具|
 |[Hasty Paste](https://enchantedcode.co.uk/hasty-paste/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/hasty-paste/logo.png" alt="logo" width="50px">|一个快速粘贴文本并共享的地方|工具|
 |[Pterodactyl (翼龙中国版)](https://pterodactyl.top/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/pterodactyl-china/logo.png" alt="logo" width="50px">|一个免费的开源游戏服务器管理面板（前端）||
