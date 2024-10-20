@@ -99,6 +99,7 @@
 |[Headscale-WebUI](https://github.com/iFargle/headscale-webui)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/headscale-webui/logo.png" alt="logo" width="50px">|适用于小规模部署的简单 Headscale 网络用户界面|工具|
 |[Puter](https://puter.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/puter/logo.png" alt="logo" width="50px">|先进的开源互联网操作系统||
 |[IT-Tools](https://it-tools.tech)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/it-tools/logo.png" alt="logo" width="50px">|为开发人员提供方便的在线工具集合，具有出色的用户体验||
+|[TangSengDaoDao](https://tsdaodao.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/tangsengdaodao/logo.png" alt="logo" width="50px">|让企业轻松拥有自己的即时通讯||
 |[Password Pusher](https://pwpush.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/passwordpusher/logo.png" alt="logo" width="50px">|一个通过网络传递密码的开源应用程序|工具|
 |[Alist-encrypt](https://github.com/traceless/alist-encrypt)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/alist-encrypt/logo.png" alt="logo" width="50px">|对 Alist 的服务提供 webdav 的加解密功能||
 |[Amilys Emby Server](https://hub.docker.com/r/amilys/embyserver)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/emby-amilys/logo.png" alt="logo" width="50px">|一个免费的个人媒体服务器 (开心版)||
@@ -237,6 +238,7 @@
 |[SSCMS 内容管理系统](https://sscms.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/sscms/logo.png" alt="logo" width="50px">|开源免费、企业级、可商用的CMS内容管理系统||
 |[NPS](https://ehang-io.github.io/nps)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/nps/logo.png" alt="logo" width="50px">|轻量级、高性能、功能强大的内网穿透代理服务器|工具|
 |[Immich](https://immich.app)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/immich/logo.png" alt="logo" width="50px">|高性能的自托管照片和视频备份方案||
+|[WuKongIM](https://githubim.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/wukongim/logo.png" alt="logo" width="50px">|让企业轻松拥有自己的即时通讯||
 |[Nging](https://github.com/admpub/nging)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/nging/logo.png" alt="logo" width="50px">|Go 语言 Web 管理面板||
 |[MixSpace](https://mx-space.js.org)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/mixspace/logo.png" alt="logo" width="50px">|开源自部署个人前后端分离博客系统|建站|
 |[SmartDNS](https://pymumu.github.io/smartdns)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/smartdns/logo.png" alt="logo" width="50px">|一个运行在本地的 DNS 服务器|工具|
