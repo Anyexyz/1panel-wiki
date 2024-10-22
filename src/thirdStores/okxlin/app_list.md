@@ -221,6 +221,7 @@
 |[ZeroTier-Planet](https://github.com/Jonnyan404/zerotier-planet)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/zerotier-planet/logo.png" alt="logo" width="50px">|具有 Web UI 的 ZeroTier 网络控制器|工具|
 |[Mattermost](https://mattermost.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/mattermost/logo.png" alt="logo" width="50px">|开源团队协作平台||
 |[wgcf-socks5-proxy](https://github.com/activeliang/wgcf-socks5-proxy)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/wgcf-socks5-proxy/logo.png" alt="logo" width="50px">|docker 里的 CloudFlare warp socks5|工具|
+|[Arcadia](https://arcadia.cool)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/arcadia/logo.png" alt="logo" width="50px">|一站式代码运维平台||
 |[sub2clash](https://www.nite07.com/sub)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/sub2clash/logo.png" alt="logo" width="50px">|将节点和订阅转换为 clash(meta) 配置||
 |[Firefox Browser](https://www.mozilla.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/firefox-browser/logo.png" alt="logo" width="50px">|一个免费的开源网络浏览器|工具|
 |[Ikaros](https://ikaros.run)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/ikaros/logo.png" alt="logo" width="50px">|专注于 ACGMN 的内容管理系统 (CMS)||
