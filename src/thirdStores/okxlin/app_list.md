@@ -33,7 +33,7 @@
 |[中文 DOS 游戏](https://dos.lol/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/dosgame/logo.png" alt="logo" width="50px">|中文 DOS 游戏合集|休闲游戏|
 |[GoWebDAV](https://github.com/117503445/GoWebDAV)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/gowebdav/logo.png" alt="logo" width="50px">|轻量易用的 WebDAV 服务器||
 |[Dockge](https://dockge.kuma.pet)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/dockge/logo.png" alt="logo" width="50px">|一个精美的、易于使用的、反应式的自托管 docker compose.yaml 面向堆栈的管理器|工具|
-|[Bitwarden](https://bitwarden.com/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/bitwarden/logo.png" alt="logo" width="50px">|一个开源的密码管理服务|工具|
+|[Bitwarden](https://bitwarden.com/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/bitwarden/logo.png" alt="logo" width="50px">|一个开源的密码管理服务||
 |[tldraw](https://www.tldraw.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/tldraw/logo.png" alt="logo" width="50px">|一款协作式数字白板|工具|
 |[NezhaDash](https://nezha-cf.buycoffee.top)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/nezha-dash/logo.png" alt="logo" width="50px">|一个基于 Next.js 和 哪吒监控 的仪表盘||
 |[Plex Media Server](https://www.plex.tv)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/plex/logo.png" alt="logo" width="50px">|Plex 媒体服务器||
@@ -281,6 +281,7 @@
 |[UnblockNeteaseMusic](https://github.com/UnblockNeteaseMusic/server)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/unblockneteasemusic/logo.png" alt="logo" width="50px">|解锁网易云音乐客户端变灰歌曲|工具|
 |[Jellyfin](https://jellyfin.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/jellyfin/logo.png" alt="logo" width="50px">|多媒体应用程序软件套装||
 |[Telegram Desktop](https://telegram.org)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/telegram/logo.png" alt="logo" width="50px">|适用于Kasm Workspaces 的电报桌面|工具|
+|[Certd](https://certd.docmirror.cn)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/certd/logo.png" alt="logo" width="50px">|开源 SSL 证书管理工具||
 |[百度网盘](https://pan.baidu.com/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/baidunetdisk/logo.png" alt="logo" width="50px">|百度网盘是百度推出的一项云存储服务|工具|
 |[LibreOffice](https://www.libreoffice.org)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/libreoffice/logo.png" alt="logo" width="50px">|一款功能强大的办公软件|工具|
 |[SubLink](https://github.com/jaaksii/sublink)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/sublink/logo.png" alt="logo" width="50px">|节点转换成订阅|工具|
