@@ -91,3 +91,4 @@
 |[](https://faka.wiki/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/acg-faka/logo.png" alt="logo" width="50px">|||
 |[](https://github.com/cnk3x/xunlei/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/xunlei-cnk3x/logo.png" alt="logo" width="50px">|||
 |[](https://igniterealtime.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/openfire/logo.png" alt="logo" width="50px">|||
+|[](https://www.kimai.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/shiori/logo.png" alt="logo" width="50px">|||
