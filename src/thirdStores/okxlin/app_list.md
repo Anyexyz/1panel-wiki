@@ -53,6 +53,7 @@
 |[meowfacts](https://github.com/wh-iterabb-it/meowfacts)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/meowfacts/logo.png" alt="logo" width="50px">|一个简单的 API，它返回一个 catfact|工具|
 |[Home Assistant](https://www.home-assistant.io/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/home-assistant/logo.png" alt="logo" width="50px">|开源家庭自动化，将本地控制和隐私放在首位。|工具|
 |[WireGuard-UI](https://www.wireguard.com/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/wireguard-ui/logo.png" alt="logo" width="50px">|Wireguard 网络界面|工具|
+|[Edge Browser](https://www.microsoft.com/zh-cn/edge)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/edge-browser/logo.png" alt="logo" width="50px">|Microsoft Edge Insider 预览版||
 |[Minichat](https://minichat.seeyou.me)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/minichat/logo.png" alt="logo" width="50px">|极简聊天应用||
 |[卷王 SurveyKing](https://surveyking.cn)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/surveyking/logo.png" alt="logo" width="50px">|更好的问卷考试系统|工具|
 |[Verdaccio](https://verdaccio.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/verdaccio/logo.png" alt="logo" width="50px">|本地私有 NPM 注册中心||
@@ -138,6 +139,7 @@
 |[Maddy Mail Server](https://maddy.email)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/maddy-mail/logo.png" alt="logo" width="50px">|可组合的多合一邮件服务器|邮件服务|
 |[Chat Nio](https://chatnio.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/chatnio/logo.png" alt="logo" width="50px">|下一代 AI 一站式解决方案||
 |[Zabbix-Server](https://www.zabbix.com/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/zabbix-server/logo.png" alt="logo" width="50px">|实时监控 IT 组件和服务|工具|
+|[Chrome Browser](https://www.google.com/chrome/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/chrome-browser/logo.png" alt="logo" width="50px">|Google Chrome 浏览器||
 |[LinkStack](https://linkstack.org)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/linkstack/logo.png" alt="logo" width="50px">|高度可定制的链接共享平台，用户界面直观易用||
 |[ChineseSubFinder](https://github.com/ChineseSubFinder/ChineseSubFinder)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/chinesesubfinder/logo.png" alt="logo" width="50px">|自动化中文字幕下载|工具|
 |[Open WebUI](https://openwebui.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/open-webui/logo.png" alt="logo" width="50px">|大语言模型 (LLMs) 的用户友好型网络界面||
