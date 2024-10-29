@@ -63,6 +63,7 @@
 |[](https://gitea.io/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/gitea/logo.png" alt="logo" width="50px">|||
 |[](https://pixman.io/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/pixman/logo.png" alt="logo" width="50px">|||
 |[](https://github.com/andrii-kryvoviaz/slink/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/slink/logo.png" alt="logo" width="50px">|||
+|[](https://www.zerotier.com/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/zerotier-planet/logo.png" alt="logo" width="50px">|||
 |[](https://www.traccar.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/traccar/logo.png" alt="logo" width="50px">|||
 |[](https://www.teemii.io/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/teemii/logo.png" alt="logo" width="50px">|||
 |[](https://wiki.mcy.im/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/mcy-shop/logo.png" alt="logo" width="50px">|||
