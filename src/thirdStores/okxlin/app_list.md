@@ -42,6 +42,7 @@
 |[cloudflared](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/install-and-setup/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/cloudflared/logo.png" alt="logo" width="50px">|Cloudflare Tunnel 客户端||
 |[FRP-Panel (Server/Client)](https://github.com/VaalaCat/frp-panel)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/frp-panel/logo.png" alt="logo" width="50px">|多节点 FRP WebUI (服务端/客户端)|工具|
 |[VoceChat](https://voce.chat)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/vocechat/logo.png" alt="logo" width="50px">|一款支持独立部署的个人云社交媒体聊天服务|工具|
+|[Frigate](https://frigate.video)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/frigate/logo.png" alt="logo" width="50px">|一个开源的实时视频监控系统||
 |[Bark](https://bark.day.app)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/bark/logo.png" alt="logo" width="50px">|iOS 消息推送工具||
 |[LibreSpeed](https://librespeed.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/librespeed/logo.png" alt="logo" width="50px">|开源速度测试工具||
 |[Domain Admin](https://github.com/mouday/domain-admin)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/domain-admin/logo.png" alt="logo" width="50px">|域名和SSL证书监测平台|工具|
