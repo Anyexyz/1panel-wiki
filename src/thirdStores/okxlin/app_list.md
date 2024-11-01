@@ -7,6 +7,7 @@
 |[ZFile](https://www.zfile.vip/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/zfile/logo.png" alt="logo" width="50px">|基于 Java 的在线网盘程序|工具|
 |[MiGPT GUI](https://migptgui.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/mi-gpt-gui/logo.png" alt="logo" width="50px">|安全、快速的给你的小爱音箱接入人工智能||
 |[Pingvin Share](https://github.com/stonith404/pingvin-share)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/pingvin-share/logo.png" alt="logo" width="50px">|一个可自建的文件分享平台|工具|
+|[LrcApi](https://docs.lrc.cx)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/lrcapi/logo.png" alt="logo" width="50px">|StreamMusic 的 Flask 应用程序接口||
 |[MDC-NG](https://hub.docker.com/r/mdcng/mdc)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/mdc-ng/logo.png" alt="logo" width="50px">|你的次世代媒体库管理方案||
 |[Discuz!](https://www.discuz.vip/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/discuz/logo.png" alt="logo" width="50px">|开源社交建站系统|建站|
 |[WeekToDo](https://weektodo.me)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/weektodo/logo.png" alt="logo" width="50px">|一款免费的极简主义每周计划应用程序，专注于隐私|工具|
