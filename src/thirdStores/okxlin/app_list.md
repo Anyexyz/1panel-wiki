@@ -106,6 +106,7 @@
 |[Password Pusher](https://pwpush.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/passwordpusher/logo.png" alt="logo" width="50px">|一个通过网络传递密码的开源应用程序|工具|
 |[Alist-encrypt](https://github.com/traceless/alist-encrypt)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/alist-encrypt/logo.png" alt="logo" width="50px">|对 Alist 的服务提供 webdav 的加解密功能||
 |[Amilys Emby Server](https://hub.docker.com/r/amilys/embyserver)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/emby-amilys/logo.png" alt="logo" width="50px">|一个免费的个人媒体服务器 (开心版)||
+|[Netdata](https://www.netdata.cloud)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/netdata/logo.png" alt="logo" width="50px">|一个实时监控工具||
 |[BT-Panel](https://www.bt.cn/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/baota/logo.png" alt="logo" width="50px">|宝塔面板，服务器运维管理面板|工具|
 |[MyNodeQuery](https://hub.docker.com/r/jaydenlee2019/mynodequery)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/mynodequery/logo.png" alt="logo" width="50px">|一款简洁好用的探针|工具|
 |[DbGate](https://dbgate.org)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/dbgate/logo.png" alt="logo" width="50px">|跨平台的数据库管理器|开发工具|
@@ -182,6 +183,7 @@
 |[Audiobookshelf](https://www.audiobookshelf.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/audiobookshelf/logo.png" alt="logo" width="50px">|一个自托管有声读物和播客服务器|工具|
 |[mdserver-web](https://hub.docker.com/r/ddsderek/mdserver-web)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/mdserver-web/logo.png" alt="logo" width="50px">|一款简单 Linux 面板服务||
 |[YesPlayMusic](https://music.qier222.com/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/yesplaymusic/logo.png" alt="logo" width="50px">|一款高颜值的第三方网易云播放器||
+|[MediaWiki](https://www.mediawiki.org)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/mediawiki/logo.png" alt="logo" width="50px">|开源百科引擎||
 |[QianDao](https://hub.docker.com/r/qdtoday/qd)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/qiandao/logo.png" alt="logo" width="50px">|一个 HTTP 请求定时任务自动执行框架|工具|
 |[NodeBB](https://nodebb.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/nodebb/logo.png" alt="logo" width="50px">|基于 Node.js 的现代化论坛程序|建站|
 |[iPerf](https://software.es.net/iperf/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/iperf/logo.png" alt="logo" width="50px">|网络性能测试工具||
