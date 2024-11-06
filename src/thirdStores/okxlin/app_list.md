@@ -211,6 +211,7 @@
 |[Medama](https://oss.medama.io)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/medama/logo.png" alt="logo" width="50px">|自托管、注重隐私的网站分析||
 |[Aria2-Pro](https://github.com/P3TERX/Aria2-Pro-Docker)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/aria2-pro/logo.png" alt="logo" width="50px">|更好用的 Aria2 Docker 容器镜像|工具|
 |[Twikoo](https://twikoo.js.org)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/twikoo/logo.png" alt="logo" width="50px">|一个简洁、安全、免费的静态网站评论系统|工具|
+|[Radarr](https://radarr.video)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/radarr/logo.png" alt="logo" width="50px">|电影收藏管理器||
 |[MiGPT](https://github.com/idootop/mi-gpt)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/mi-gpt/logo.png" alt="logo" width="50px">|将小爱音箱接入 ChatGPT 和豆包||
 |[watchtower](https://github.com/containrrr/watchtower)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/watchtower/logo.png" alt="logo" width="50px">|自动更新 Docker 容器基础镜像的工具|工具|
 |[Joplin Server](https://joplinapp.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/joplin-server/logo.png" alt="logo" width="50px">|一个开源的记事本应用程序|工具|
