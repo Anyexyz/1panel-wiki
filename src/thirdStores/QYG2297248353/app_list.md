@@ -69,6 +69,7 @@
 |[](https://www.traccar.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/traccar/logo.png" alt="logo" width="50px">|||
 |[](https://www.teemii.io/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/teemii/logo.png" alt="logo" width="50px">|||
 |[](https://wiki.mcy.im/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/mcy-shop/logo.png" alt="logo" width="50px">|||
+|[](https://www.microsoft.com/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/windows/logo.png" alt="logo" width="50px">|||
 |[](https://bitmagnet.io/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/bitmagnet/logo.png" alt="logo" width="50px">|||
 |[](https://www.percona.com/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/percona/logo.png" alt="logo" width="50px">|||
 |[](https://immich.app/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/immich/logo.png" alt="logo" width="50px">|||
