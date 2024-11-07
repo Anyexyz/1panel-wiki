@@ -197,6 +197,7 @@
 |[frpc-frp 客户端](https://github.com/fatedier/frp)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/frpc/logo.png" alt="logo" width="50px">|frp 是一种反向代理工具，常用于内网穿透(客户端)|工具|
 |[frps-frp 服务端](https://github.com/fatedier/frp)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/frps/logo.png" alt="logo" width="50px">|frp 是一种反向代理工具，常用于内网穿透(服务端)|工具|
 |[Docker-OSX](https://github.com/sickcodes/Docker-OSX)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/docker-osx/logo.png" alt="logo" width="50px">|在 Docker 中运行 macOS||
+|[Sonarr](https://sonarr.tv)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/sonarr/logo.png" alt="logo" width="50px">|面向新闻组和 Bittorrent 流媒体用户的智能 PVR||
 |[OpenTDP](https://docs.opentdp.org)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/opentdp/logo.png" alt="logo" width="50px">|可以跨平台部署的云资源管理面板||
 |[code-server](https://coder.com/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/code-server/logo.png" alt="logo" width="50px">|在任何地方的任何计算机上运行 VS Code 并在浏览器中访问它||
 |[miniPaint](https://hub.docker.com/r/pfav/minipaint)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/minipaint/logo.png" alt="logo" width="50px">|在线图像编辑器，可让您使用HTML5技术创建，编辑图像|工具|
