@@ -109,6 +109,7 @@
 |[Netdata](https://www.netdata.cloud)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/netdata/logo.png" alt="logo" width="50px">|一个实时监控工具||
 |[BT-Panel](https://www.bt.cn/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/baota/logo.png" alt="logo" width="50px">|宝塔面板，服务器运维管理面板|工具|
 |[MyNodeQuery](https://hub.docker.com/r/jaydenlee2019/mynodequery)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/mynodequery/logo.png" alt="logo" width="50px">|一款简洁好用的探针|工具|
+|[UpSnap](https://github.com/seriousm4x/UpSnap)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/upsnap/logo.png" alt="logo" width="50px">|一个简单的唤醒网络应用程序||
 |[DbGate](https://dbgate.org)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/dbgate/logo.png" alt="logo" width="50px">|跨平台的数据库管理器|开发工具|
 |[mosdns](https://hub.docker.com/r/irinesistiana/mosdns)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/mosdns/logo.png" alt="logo" width="50px">|一个插件化的 DNS 转发/分流器|工具|
 |[YOURLS](https://yourls.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/yourls/logo.png" alt="logo" width="50px">|PHP驱动的标准自托管URL缩短器|工具|
