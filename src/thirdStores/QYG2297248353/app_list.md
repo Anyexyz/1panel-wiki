@@ -32,6 +32,7 @@
 |[](https://www.limesurvey.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/limesurvey/logo.png" alt="logo" width="50px">|||
 |[](https://hub.docker.com/r/lovechen/embyserver)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/emby-amilys/logo.png" alt="logo" width="50px">|||
 |[](https://docs.jellyseerr.dev/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/jellyseerr/logo.png" alt="logo" width="50px">|||
+|[](https://www.bt.cn/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/baota/logo.png" alt="logo" width="50px">|||
 |[](https://www.elastic.co/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/elastic-elasticsearch/logo.png" alt="logo" width="50px">|||
 |[](https://nacos.io/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/nacos/logo.png" alt="logo" width="50px">|||
 |[](https://github.com/easychen/CookieCloud/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/cookie-cloud/logo.png" alt="logo" width="50px">|||
