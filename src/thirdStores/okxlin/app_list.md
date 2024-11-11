@@ -117,6 +117,7 @@
 |[ALS](https://github.com/wikihost-opensource/als)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/als/logo.png" alt="logo" width="50px">|Another Looking-glass Server，测速服务端|工具|
 |[Sun-Panel](https://sun-panel-doc.enianteam.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/sun-panel/logo.png" alt="logo" width="50px">|一个服务器、NAS导航面板、Homepage、浏览器首页|建站|
 |[Rathole](https://github.com/rapiz1/rathole)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/rathole/logo.png" alt="logo" width="50px">|安全、稳定、高性能的内网穿透工具||
+|[MT Photos](https://mtmt.tech)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/mt-photos/logo.png" alt="logo" width="50px">|一款简单、好用的照片管理系统||
 |[FlexGet](https://flexget.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/flexget/logo.png" alt="logo" width="50px">|多用途自动化工具|工具|
 |[哪吒监控 - Agent](https://nezha.wiki)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/nezha-agent/logo.png" alt="logo" width="50px">|哪吒监控 - Agent||
 |[ModStartBlog](https://modstart.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/modstartblog/logo.png" alt="logo" width="50px">|开源个人博客系统|建站|
