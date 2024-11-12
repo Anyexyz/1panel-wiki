@@ -127,7 +127,7 @@
 |[WolGoWeb](https://github.com/xiaoxinpro/WolGoWeb)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/wol-go-web/logo.png" alt="logo" width="50px">|网络唤醒工具||
 |[Act runner](https://gitea.com/gitea/act_runner)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/act_runner/logo.png" alt="logo" width="50px">|Gitea Actions 的 Runner||
 |[OpenVPN Access Server](https://openvpn.net/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/openvpn-as/logo.png" alt="logo" width="50px">|开源 VPN 解决方案||
-|[WireGuard Easy](https://www.wireguard.com/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/wireguard-easy/logo.png" alt="logo" width="50px">|运行 WireGuard VPN + 基于 Web 的管理 UI 的最简单方法|工具|
+|[WireGuard Easy](https://www.wireguard.com/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/wireguard-easy/logo.png" alt="logo" width="50px">|运行 WireGuard VPN + 基于 Web 的管理 UI 的最简单方法||
 |[Sub-Store](https://hub.docker.com/r/xream/sub-store)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/sub-store/logo.png" alt="logo" width="50px">|适用于 QX、Loon、Surge、Stash 和 Shadowrocket 的高级订阅管理器||
 |[Halo](https://halo.run/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/halo/logo.png" alt="logo" width="50px">|强大易用的开源建站工具|建站|
 |[Prometheus](https://prometheus.io/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/prometheus/logo.png" alt="logo" width="50px">|一个系统和服务监控系统|工具|
@@ -223,6 +223,7 @@
 |[Dashy](https://dashy.to)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/dashy/logo.png" alt="logo" width="50px">|专为您打造的可自行托管的个人仪表板||
 |[ProxyPool](https://proxy-pool.readthedocs.io)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/proxy_pool/logo.png" alt="logo" width="50px">|爬虫代理 IP 池||
 |[telegraph](https://jiasu.in)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/telegraph/logo.png" alt="logo" width="50px">|基于 telegraph 的图床，图片大于 5MB 自动压缩||
+|[Blinko](https://blinko-demo.vercel.app)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/blinko/logo.png" alt="logo" width="50px">|一款开源、自托管的个人笔记工具||
 |[](https://oss.oetiker.ch/smokeping/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/smokeping/logo.png" alt="logo" width="50px">|||
 |[AutoBangumi](https://www.autobangumi.org)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/autobangumi/logo.png" alt="logo" width="50px">|全自动追番工具||
 |[Geekbench](https://hub.docker.com/r/davidsarkany/geekbench)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/geekbench/logo.png" alt="logo" width="50px">|基准测试工具 Docker 版||
