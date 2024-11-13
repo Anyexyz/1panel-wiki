@@ -90,6 +90,7 @@
 |[RSSHub](https://docs.rsshub.app/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/rsshub/logo.png" alt="logo" width="50px">|一个开源、简单易用、易于扩展的 RSS 生成器|工具|
 |[ModStartCMS](https://modstart.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/modstartcms/logo.png" alt="logo" width="50px">|开源企业建站系统|建站|
 |[flarum](https://flarum.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/flarum/logo.png" alt="logo" width="50px">|新一代的论坛软件，使在线讨论变得有趣|建站|
+|[](https://www.youdeyunke.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/udyk-ce/logo.png" alt="logo" width="50px">|||
 |[subconverter](https://github.com/tindy2013/subconverter)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/subconverter/logo.png" alt="logo" width="50px">|在各种订阅格式之间进行转换的实用程序||
 |[nvPress](https://docs.panda-studio.cn:8282/docs/post-19/page-100)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/nvpress/logo.png" alt="logo" width="50px">|一个完全由 Javascript 驱动的内容管理程序|工具|
 |[RustDesk](https://rustdesk.com/zh/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/rustdesk/logo.png" alt="logo" width="50px">|RustDesk是一款开源的远程桌面软件|工具|
@@ -129,7 +130,6 @@
 |[OpenVPN Access Server](https://openvpn.net/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/openvpn-as/logo.png" alt="logo" width="50px">|开源 VPN 解决方案||
 |[WireGuard Easy](https://www.wireguard.com/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/wireguard-easy/logo.png" alt="logo" width="50px">|运行 WireGuard VPN + 基于 Web 的管理 UI 的最简单方法||
 |[Sub-Store](https://hub.docker.com/r/xream/sub-store)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/sub-store/logo.png" alt="logo" width="50px">|适用于 QX、Loon、Surge、Stash 和 Shadowrocket 的高级订阅管理器||
-|[Halo](https://halo.run/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/halo/logo.png" alt="logo" width="50px">|强大易用的开源建站工具|建站|
 |[Prometheus](https://prometheus.io/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/prometheus/logo.png" alt="logo" width="50px">|一个系统和服务监控系统|工具|
 |[Alist-TVBox](https://github.com/power721/alist-tvbox)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/alist-tvbox/logo.png" alt="logo" width="50px">|AList 代理，支持 xiaoya 版 AList 界面管理|工具|
 |[Speedtest-X](https://github.com/BadApple9/speedtest-x)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/speedtest-x/logo.png" alt="logo" width="50px">|自托管的速度测试应用程序，提供出色的测试结果数据表|工具|
