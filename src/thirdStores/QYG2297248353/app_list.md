@@ -53,6 +53,7 @@
 |[](https://www.maccms.la/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/maccms10/logo.png" alt="logo" width="50px">|||
 |[](https://dozzle.dev/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/dozzle/logo.png" alt="logo" width="50px">|||
 |[](https://www.mysql.com/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/mysql/logo.png" alt="logo" width="50px">|||
+|[](https://mediacms.io/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/mediacms/logo.png" alt="logo" width="50px">|||
 |[](https://casdoor.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/casdoor/logo.png" alt="logo" width="50px">|||
 |[](https://prowlarr.com/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/prowlarr/logo.png" alt="logo" width="50px">|||
 |[](https://www.postgresql.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/postgresql/logo.png" alt="logo" width="50px">|||
