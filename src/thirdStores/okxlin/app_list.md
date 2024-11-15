@@ -97,6 +97,7 @@
 |[Matomo](https://matomo.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/matomo/logo.png" alt="logo" width="50px">|开源的网站分析应用程序|工具|
 |[Port-Forward-Agent](https://gitee.com/tavenli/port-forward)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/port-forward-agent/logo.png" alt="logo" width="50px">|Go 语言开发的端口转发工具 (客户端)|工具|
 |[Chemex](https://hub.docker.com/r/celaraze/chemex)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/chemex/logo.png" alt="logo" width="50px">|一个免费、开源、高效且漂亮的运维资产管理平台|工具|
+|[FlareSolverr](https://github.com/FlareSolverr/FlareSolverr)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/flaresolverr/logo.png" alt="logo" width="50px">|绕过 Cloudflare 保护的代理服务器||
 |[Heimdall](https://heimdall.site/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/heimdall/logo.png" alt="logo" width="50px">|应用程序仪表板和启动器|工具|
 |[Palworld Dedicated Server (幻兽帕鲁)](https://hub.docker.com/r/kagurazakanyaa/palworld)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/palworld-server/logo.png" alt="logo" width="50px">|幻兽帕鲁服务端|休闲游戏|
 |[sub2sing-box](https://singbox.nite07.com/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/sub2sing-box/logo.png" alt="logo" width="50px">|将节点和订阅转换为 sing-box 配置||
@@ -124,6 +125,7 @@
 |[ModStartBlog](https://modstart.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/modstartblog/logo.png" alt="logo" width="50px">|开源个人博客系统|建站|
 |[Alist](https://github.com/alist-org/alist)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/alist/logo.png" alt="logo" width="50px">|一个支持多存储的文件列表程序|工具|
 |[Next Terminal](https://next-terminal.typesafe.cn/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/next-terminal/logo.png" alt="logo" width="50px">|一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议|工具|
+|[VPS Stock Monitor](https://github.com/vpslog/vps-stock-monitor)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/vps-stock-monitor/logo.png" alt="logo" width="50px">|VPS 库存监控工具||
 |[Navidrome Music Server](https://www.navidrome.org)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/navidrome/logo.png" alt="logo" width="50px">|基于 Web 的开源音乐收藏服务器和流媒体||
 |[WolGoWeb](https://github.com/xiaoxinpro/WolGoWeb)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/wol-go-web/logo.png" alt="logo" width="50px">|网络唤醒工具||
 |[Act runner](https://gitea.com/gitea/act_runner)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/act_runner/logo.png" alt="logo" width="50px">|Gitea Actions 的 Runner||
@@ -238,7 +240,7 @@
 |[Ikaros](https://ikaros.run)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/ikaros/logo.png" alt="logo" width="50px">|专注于 ACGMN 的内容管理系统 (CMS)||
 |[icat_lite](https://miao.o-o.zone)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/icat_lite/logo.png" alt="logo" width="50px">|喵空间社区程序 Lite 版||
 |[Vue Color Avatar](https://vue-color-avatar.leoku.dev)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/vue-color-avatar/logo.png" alt="logo" width="50px">|一个纯前端实现的头像生成网站||
-|[雷池 Web 应用防火墙(Safeline WAF)](https://waf-ce.chaitin.cn/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/safeline/logo.png" alt="logo" width="50px">|一款足够简单、足够好用、足够强的免费 WAF|工具|
+|[雷池 Web 应用防火墙(Safeline WAF)](https://waf-ce.chaitin.cn/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/safeline/logo.png" alt="logo" width="50px">|一款足够简单、足够好用、足够强的免费 WAF||
 |[Gotify](https://gotify.net)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/gotify/logo.png" alt="logo" width="50px">|自托管通知服务器||
 |[Web-Check](https://web-check.xyz/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/web-check/logo.png" alt="logo" width="50px">|用于分析任何网站的多合一 OSINT 工具|工具|
 |[nginxWebUI](https://www.nginxwebui.cn)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/nginxwebui/logo.png" alt="logo" width="50px">|Nginx 网页管理工具|Web 服务器|
@@ -292,6 +294,7 @@
 |[UnblockNeteaseMusic](https://github.com/UnblockNeteaseMusic/server)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/unblockneteasemusic/logo.png" alt="logo" width="50px">|解锁网易云音乐客户端变灰歌曲|工具|
 |[Jellyfin](https://jellyfin.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/jellyfin/logo.png" alt="logo" width="50px">|多媒体应用程序软件套装||
 |[Telegram Desktop](https://telegram.org)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/telegram/logo.png" alt="logo" width="50px">|适用于Kasm Workspaces 的电报桌面|工具|
+|[Deluge](https://deluge-torrent.org)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/deluge/logo.png" alt="logo" width="50px">|跨平台的 BitTorrent 客户端||
 |[Certd](https://certd.docmirror.cn)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/certd/logo.png" alt="logo" width="50px">|开源 SSL 证书管理工具||
 |[百度网盘](https://pan.baidu.com/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/baidunetdisk/logo.png" alt="logo" width="50px">|百度网盘是百度推出的一项云存储服务|工具|
 |[LibreOffice](https://www.libreoffice.org)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/libreoffice/logo.png" alt="logo" width="50px">|一款功能强大的办公软件|工具|
