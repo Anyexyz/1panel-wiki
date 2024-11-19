@@ -22,6 +22,7 @@
 |[](https://rsshub.app/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/rsshub/logo.png" alt="logo" width="50px">|||
 |[](https://immich.app/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/immich-machine-learning/logo.png" alt="logo" width="50px">|||
 |[](https://min.io/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/minio/logo.png" alt="logo" width="50px">|||
+|[](https://www.pagespy.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/page-spy-web/logo.png" alt="logo" width="50px">|||
 |[](https://github.com/BitAUR/Puff/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/puff/logo.png" alt="logo" width="50px">|||
 |[](https://www.elastic.co/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/elastic-kibana/logo.png" alt="logo" width="50px">|||
 |[](https://nexusphp.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/nexusphp/logo.png" alt="logo" width="50px">|||
