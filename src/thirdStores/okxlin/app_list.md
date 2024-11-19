@@ -305,6 +305,7 @@
 |[Element Web](https://element.io)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/element-web/logo.png" alt="logo" width="50px">|一款围绕您构建的安全通信平台|工具|
 |[独角数卡](https://github.com/assimon/dujiaoka)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/dujiaoka/logo.png" alt="logo" width="50px">|开源站长自动化售货解决方案||
 |[TwoNav](https://hub.docker.com/r/tznb/twonav)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/twonav/logo.png" alt="logo" width="50px">|一款开源免费的书签（导航）管理程序|建站|
+|[AnQiCMS](https://www.anqicms.com/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/anqicms/logo.png" alt="logo" width="50px">|专注高安全性、多站点、多语言支持的内容管理系统||
 |[Moments](https://moments.shiyu.dev/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/moments/logo.png" alt="logo" width="50px">|一个 C# 开发的博客朋友圈平台|建站|
 |[Stable Diffusion ComfyUI](https://github.com/thirdscam/SD-WebUI-Docker)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/sd-comfyui/logo.png" alt="logo" width="50px">|最强大、模块化的 stable diffusion GUI，具有图形/节点界面||
 |[Artalk](https://artalk.js.org)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/artalk/logo.png" alt="logo" width="50px">|一款简洁的自托管评论系统|工具|
