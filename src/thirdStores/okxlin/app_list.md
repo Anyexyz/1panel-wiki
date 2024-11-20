@@ -229,6 +229,7 @@
 |[](https://oss.oetiker.ch/smokeping/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/smokeping/logo.png" alt="logo" width="50px">|||
 |[AutoBangumi](https://www.autobangumi.org)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/autobangumi/logo.png" alt="logo" width="50px">|全自动追番工具||
 |[Geekbench](https://hub.docker.com/r/davidsarkany/geekbench)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/geekbench/logo.png" alt="logo" width="50px">|基准测试工具 Docker 版||
+|[WireGuard](https://www.wireguard.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/wireguard/logo.png" alt="logo" width="50px">|一种极其简单但快速且现代的 VPN||
 |[mTab](https://www.mtab.cc)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/mtab/logo.png" alt="logo" width="50px">|书签导航程序||
 |[Slink](https://github.com/andrii-kryvoviaz/slink)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/slink/logo.png" alt="logo" width="50px">|图像共享平台（图床）||
 |[ZeroTier-Planet](https://github.com/Jonnyan404/zerotier-planet)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/zerotier-planet/logo.png" alt="logo" width="50px">|具有 Web UI 的 ZeroTier 网络控制器|工具|
