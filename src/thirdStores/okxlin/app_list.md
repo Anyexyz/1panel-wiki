@@ -142,6 +142,7 @@
 |[今日热榜 DailyHot Web](https://hot.imsyy.top)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/dailyhot-web/logo.png" alt="logo" width="50px">|一个聚合了中文热门站点数据的项目(前端)|工具|
 |[Trilium Notes](https://github.com/zadam/trilium)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/trilium/logo.png" alt="logo" width="50px">|一个层次化的笔记应用程序，专注于建立大型个人知识库|工具|
 |[Grafana](https://grafana.com/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/grafana/logo.png" alt="logo" width="50px">|用于监控和可观察性的开源平台|工具|
+|[Script-Hub](https://hub.docker.com/r/xxooyy/script-hub)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/script-hub/logo.png" alt="logo" width="50px">|高级脚本转换器||
 |[Tailscale](https://tailscale.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/tailscale/logo.png" alt="logo" width="50px">|使用 WireGuard 和 2FA 的最简单、最安全的方式|工具|
 |[Maddy Mail Server](https://maddy.email)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/maddy-mail/logo.png" alt="logo" width="50px">|可组合的多合一邮件服务器|邮件服务|
 |[Chat Nio](https://chatnio.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/chatnio/logo.png" alt="logo" width="50px">|下一代 AI 一站式解决方案||
