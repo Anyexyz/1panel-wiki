@@ -2,6 +2,7 @@
 
 |应用|图标|描述|类型|
 |:---:|:---:|:---:|:---:|
+|[](https://www.paopao.info/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/paopao-ce/logo.png" alt="logo" width="50px">|||
 |[](https://github.com/stonith404/pingvin-share/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/pingvin-share/logo.png" alt="logo" width="50px">|||
 |[](https://onedev.io)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/onedev/logo.png" alt="logo" width="50px">|||
 |[](https://qinglong.online/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/qinglong/logo.png" alt="logo" width="50px">|||
@@ -36,6 +37,7 @@
 |[](https://hub.docker.com/r/lovechen/embyserver)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/emby-amilys/logo.png" alt="logo" width="50px">|||
 |[](https://docs.jellyseerr.dev/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/jellyseerr/logo.png" alt="logo" width="50px">|||
 |[](https://www.bt.cn/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/baota/logo.png" alt="logo" width="50px">|||
+|[](https://fider.io/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/fider/logo.png" alt="logo" width="50px">|||
 |[](https://www.elastic.co/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/elastic-elasticsearch/logo.png" alt="logo" width="50px">|||
 |[](https://nacos.io/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/nacos/logo.png" alt="logo" width="50px">|||
 |[](https://github.com/easychen/CookieCloud/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/cookie-cloud/logo.png" alt="logo" width="50px">|||
@@ -62,8 +64,10 @@
 |[](https://prowlarr.com/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/prowlarr/logo.png" alt="logo" width="50px">|||
 |[](https://www.postgresql.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/postgresql/logo.png" alt="logo" width="50px">|||
 |[](https://github.com/metatube-community/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/metatube-server/logo.png" alt="logo" width="50px">|||
+|[](https://gitcode.com/q23163677431/feedback-docker/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/feedback/logo.png" alt="logo" width="50px">|||
 |[](https://hub.docker.com/r/lovechen/embyserver)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/emby-lovechen/logo.png" alt="logo" width="50px">|||
 |[](https://sonarr.tv/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/sonarr/logo.png" alt="logo" width="50px">|||
+|[](https://github.com/SuperNG6/docker-aria2/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/aria2-superng6/logo.png" alt="logo" width="50px">|||
 |[](https://github.com/nkanaev/yarr/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/yarr/logo.png" alt="logo" width="50px">|||
 |[](https://b3log.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/siyuan/logo.png" alt="logo" width="50px">|||
 |[](https://dpanel.cc/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/dpanel-lite/logo.png" alt="logo" width="50px">|||
@@ -107,4 +111,5 @@
 |[](https://faka.wiki/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/acg-faka/logo.png" alt="logo" width="50px">|||
 |[](https://github.com/cnk3x/xunlei/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/xunlei-cnk3x/logo.png" alt="logo" width="50px">|||
 |[](https://igniterealtime.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/openfire/logo.png" alt="logo" width="50px">|||
+|[](https://topiam.cn/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/topiam-ce/logo.png" alt="logo" width="50px">|||
 |[](https://www.kimai.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/shiori/logo.png" alt="logo" width="50px">|||
