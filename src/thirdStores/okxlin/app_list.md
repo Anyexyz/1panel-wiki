@@ -225,6 +225,7 @@
 |[ZeroTier-Moon](https://www.zerotier.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/zerotier-moon/logo.png" alt="logo" width="50px">|多点虚拟化网络解决方案|工具|
 |[Dashy](https://dashy.to)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/dashy/logo.png" alt="logo" width="50px">|专为您打造的可自行托管的个人仪表板||
 |[ProxyPool](https://proxy-pool.readthedocs.io)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/proxy_pool/logo.png" alt="logo" width="50px">|爬虫代理 IP 池||
+|[Thunderbird](https://www.thunderbird.net)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/thunderbird/logo.png" alt="logo" width="50px">|开源的电子邮件客户端||
 |[telegraph](https://jiasu.in)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/telegraph/logo.png" alt="logo" width="50px">|基于 telegraph 的图床，图片大于 5MB 自动压缩||
 |[Blinko](https://blinko-demo.vercel.app)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/blinko/logo.png" alt="logo" width="50px">|一款开源、自托管的个人笔记工具||
 |[](https://oss.oetiker.ch/smokeping/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/smokeping/logo.png" alt="logo" width="50px">|||
@@ -290,6 +291,7 @@
 |[ChatGPT on WeChat](https://github.com/zhayujie/chatgpt-on-wechat)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/chatgpt-on-wechat/logo.png" alt="logo" width="50px">|基于大模型的智能对话机器人||
 |[Seafile](https://www.seafile.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/seafile/logo.png" alt="logo" width="50px">|具有隐私保护和团队合作功能的开源云存储系统|工具|
 |[SPlayer](https://github.com/imsyy/SPlayer)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/splayer/logo.png" alt="logo" width="50px">|一个简约的音乐播放器|多媒体|
+|[Thunderbird](https://www.thunderbird.net)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/thunderbird-kasm/logo.png" alt="logo" width="50px">|开源的电子邮件客户端 (Kasm)||
 |[Wallos](https://github.com/ellite/Wallos)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/wallos/logo.png" alt="logo" width="50px">|开源个人订阅跟踪器||
 |[小雅 Alist (xiaoya)](http://alist.xiaoya.pro)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/xiaoya/logo.png" alt="logo" width="50px">|基于 Alist 的网盘聚合站|工具|
 |[Cloudreve](https://cloudreve.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/cloudreve/logo.png" alt="logo" width="50px">|支持多家云存储的云盘系统|工具|
