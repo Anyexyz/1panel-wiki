@@ -4,6 +4,7 @@
 |:---:|:---:|:---:|:---:|
 |[](https://www.paopao.info/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/paopao-ce/logo.png" alt="logo" width="50px">|||
 |[](https://github.com/stonith404/pingvin-share/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/pingvin-share/logo.png" alt="logo" width="50px">|||
+|[](https://github.com/mdc-ng/mdc-ng/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/mdc-ng/logo.png" alt="logo" width="50px">|||
 |[](https://onedev.io)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/onedev/logo.png" alt="logo" width="50px">|||
 |[](https://qinglong.online/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/qinglong/logo.png" alt="logo" width="50px">|||
 |[](https://docs.speedtest-tracker.dev/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/speedtest-tracker-sqlite/logo.png" alt="logo" width="50px">|||
