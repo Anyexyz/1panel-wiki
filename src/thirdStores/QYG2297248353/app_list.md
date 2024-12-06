@@ -106,6 +106,7 @@
 |[](https://jellyfin.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/jellyfin/logo.png" alt="logo" width="50px">|||
 |[](https://element.io/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/element-web/logo.png" alt="logo" width="50px">|||
 |[](https://github.com/assimon/dujiaoka/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/dujiaoka/logo.png" alt="logo" width="50px">|||
+|[](https://homarr.dev/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/homarr/logo.png" alt="logo" width="50px">|||
 |[](https://github.com/LuckyPuppy514/jproxy/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/jproxy/logo.png" alt="logo" width="50px">|||
 |[](https://artalk.js.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/artalk/logo.png" alt="logo" width="50px">|||
 |[](https://www.iycms.com/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/iycms/logo.png" alt="logo" width="50px">|||
