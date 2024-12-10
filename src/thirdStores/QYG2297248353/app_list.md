@@ -67,6 +67,7 @@
 |[](https://github.com/hectorqin/reader/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/reader3-webview/logo.png" alt="logo" width="50px">|||
 |[](https://www.maccms.la/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/maccms10/logo.png" alt="logo" width="50px">|||
 |[](https://dozzle.dev/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/dozzle/logo.png" alt="logo" width="50px">|||
+|[](https://logto.io/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/logto/logo.png" alt="logo" width="50px">|||
 |[](https://www.mysql.com/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/mysql/logo.png" alt="logo" width="50px">|||
 |[](https://mediacms.io/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/mediacms/logo.png" alt="logo" width="50px">|||
 |[](https://casdoor.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/casdoor/logo.png" alt="logo" width="50px">|||
