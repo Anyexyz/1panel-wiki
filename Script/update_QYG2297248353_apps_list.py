@@ -12,7 +12,7 @@ def write_data_to_md(data, md_file):
         f.write('|应用|图标|描述|类型|\n')
         f.write('|:---:|:---:|:---:|:---:|\n')
         for app in data:
-            f.write(f'|[{app.get("name", "")}]({app.get("additionalProperties", {}).get("website", "")})|<img src="{app.get("logo", "")}" alt="logo" width="50px">|{app.get("description", "")}|{app.get("type", "")}|\n')
+            f.write(f'|[{app.get("additionalProperties", {}).get("name", "")}]({app.get("additionalProperties", {}).get("website", "")})|<img src="{app.get("logo", "")}" alt="logo" width="50px">|{app.get("additionalProperties", {}).get("shortDescZh", "")}|{app.get("additionalProperties", {}).get("type", "")}|\n')
 
 def main():
     apps_dir = 'appstore-1panel/apps'
