@@ -205,6 +205,7 @@
 |[Sonarr](https://sonarr.tv)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/sonarr/logo.png" alt="logo" width="50px">|面向新闻组和 Bittorrent 流媒体用户的智能 PVR||
 |[OpenTDP](https://docs.opentdp.org)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/opentdp/logo.png" alt="logo" width="50px">|可以跨平台部署的云资源管理面板||
 |[code-server](https://coder.com/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/code-server/logo.png" alt="logo" width="50px">|在任何地方的任何计算机上运行 VS Code 并在浏览器中访问它||
+|[HivisionIDPhoto](https://github.com/Zeyi-Lin/HivisionIDPhotos)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/hivision-id-photo/logo.png" alt="logo" width="50px">|一个轻量级的 AI 证件照制作工具||
 |[miniPaint](https://hub.docker.com/r/pfav/minipaint)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/minipaint/logo.png" alt="logo" width="50px">|在线图像编辑器，可让您使用HTML5技术创建，编辑图像||
 |[ONLYOFFICE Docs](https://www.onlyoffice.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/onlyoffice/logo.png" alt="logo" width="50px">|一个免费的在线办公套件||
 |[Neko](https://neko.m1k1o.net)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/neko/logo.png" alt="logo" width="50px">|自托管虚拟浏览器||
@@ -243,6 +244,7 @@
 |[Firefox Browser](https://www.mozilla.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/firefox-browser/logo.png" alt="logo" width="50px">|一个免费的开源网络浏览器||
 |[Ikaros](https://ikaros.run)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/ikaros/logo.png" alt="logo" width="50px">|专注于 ACGMN 的内容管理系统 (CMS)||
 |[icat_lite](https://miao.o-o.zone)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/icat_lite/logo.png" alt="logo" width="50px">|喵空间社区程序 Lite 版||
+|[1Panel Apps](https://github.com/okxlin/appstore)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/1panel-apps/logo.png" alt="logo" width="50px">|适配 1Panel 应用商店的通用应用模板||
 |[Vue Color Avatar](https://vue-color-avatar.leoku.dev)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/vue-color-avatar/logo.png" alt="logo" width="50px">|一个纯前端实现的头像生成网站||
 |[雷池 Web 应用防火墙(Safeline WAF)](https://waf-ce.chaitin.cn/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/safeline/logo.png" alt="logo" width="50px">|一款足够简单、足够好用、足够强的免费 WAF||
 |[Gotify](https://gotify.net)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/gotify/logo.png" alt="logo" width="50px">|自托管通知服务器||
