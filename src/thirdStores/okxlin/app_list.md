@@ -63,6 +63,7 @@
 |[Luxirty Search](https://search.luxirty.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/luxirty-search/logo.png" alt="logo" width="50px">|一个搜索引擎，基于 Google||
 |[MetaTube SDK Go](https://metatube-community.github.io)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/metatube-sdk-go/logo.png" alt="logo" width="50px">|MetaTube 服务的后端||
 |[Port-Forward-Server](https://gitee.com/tavenli/port-forward)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/port-forward-server/logo.png" alt="logo" width="50px">|Go 语言开发的端口转发工具 (服务端)||
+|[Beszel-Agent](https://github.com/henrygd/beszel)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/beszel-agent/logo.png" alt="logo" width="50px">|一个轻量级服务器资源监控工具 (客户端)||
 |[Diosic](https://github.com/Reknij/diosic)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/diosic/logo.png" alt="logo" width="50px">|一个开源的基于网络的音乐收集服务器和流媒体||
 |[Docker-Android](https://github.com/budtmo/docker-android)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/docker-android/logo.png" alt="logo" width="50px">|在 Docker 中运行 Android||
 |[Happy-ChatGPT](https://happy-chat-gpt.vercel.app)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/happy-chatgpt/logo.png" alt="logo" width="50px">|ChatGPT 国粹版，和 GPT 一起学习地道的中国话吧||
@@ -143,12 +144,14 @@
 |[Trilium Notes](https://github.com/zadam/trilium)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/trilium/logo.png" alt="logo" width="50px">|一个层次化的笔记应用程序，专注于建立大型个人知识库||
 |[Grafana](https://grafana.com/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/grafana/logo.png" alt="logo" width="50px">|用于监控和可观察性的开源平台||
 |[Script-Hub](https://hub.docker.com/r/xxooyy/script-hub)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/script-hub/logo.png" alt="logo" width="50px">|高级脚本转换器||
+|[MT Photos Deepface](https://mtmt.tech)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/mt-photos-deepface/logo.png" alt="logo" width="50px">|MT Photos 人脸识别 API||
 |[Tailscale](https://tailscale.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/tailscale/logo.png" alt="logo" width="50px">|使用 WireGuard 和 2FA 的最简单、最安全的方式||
 |[Maddy Mail Server](https://maddy.email)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/maddy-mail/logo.png" alt="logo" width="50px">|可组合的多合一邮件服务器||
 |[Chat Nio](https://chatnio.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/chatnio/logo.png" alt="logo" width="50px">|下一代 AI 一站式解决方案||
 |[Zabbix-Server](https://www.zabbix.com/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/zabbix-server/logo.png" alt="logo" width="50px">|实时监控 IT 组件和服务||
 |[Chrome Browser](https://www.google.com/chrome/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/chrome-browser/logo.png" alt="logo" width="50px">|Google Chrome 浏览器||
 |[LinkStack](https://linkstack.org)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/linkstack/logo.png" alt="logo" width="50px">|高度可定制的链接共享平台，用户界面直观易用||
+|[PicList](https://piclist.cn)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/piclist/logo.png" alt="logo" width="50px">|一款高效的云存储和图床平台管理工具||
 |[ChineseSubFinder](https://github.com/ChineseSubFinder/ChineseSubFinder)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/chinesesubfinder/logo.png" alt="logo" width="50px">|自动化中文字幕下载||
 |[Open WebUI](https://openwebui.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/open-webui/logo.png" alt="logo" width="50px">|大语言模型 (LLMs) 的用户友好型网络界面||
 |[Docker Hoster](https://hub.docker.com/r/solipsist01/docker-hoster)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/docker-hoster/logo.png" alt="logo" width="50px">|在宿主机 hosts 上解析容器名||
@@ -210,6 +213,7 @@
 |[ONLYOFFICE Docs](https://www.onlyoffice.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/onlyoffice/logo.png" alt="logo" width="50px">|一个免费的在线办公套件||
 |[Neko](https://neko.m1k1o.net)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/neko/logo.png" alt="logo" width="50px">|自托管虚拟浏览器||
 |[VanBlog](https://vanblog.mereith.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/vanblog/logo.png" alt="logo" width="50px">|一款简洁实用优雅的个人博客系统||
+|[MT Photos AI](https://mtmt.tech)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/mt-photos-ai/logo.png" alt="logo" width="50px">|MT Photos AI 相关的独立服务||
 |[思源笔记 SiYuan](https://b3log.org/siyuan)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/siyuan/logo.png" alt="logo" width="50px">|一款隐私优先的个人知识管理系统||
 |[Sunshine](http://app.lizardbyte.dev/Sunshine)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/sunshine/logo.png" alt="logo" width="50px">|开源游戏串流服务||
 |[CookieCloud](https://github.com/easychen/CookieCloud)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/cookiecloud/logo.png" alt="logo" width="50px">|一个和自架服务器同步 Cookie 的小工具||
@@ -245,6 +249,7 @@
 |[Ikaros](https://ikaros.run)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/ikaros/logo.png" alt="logo" width="50px">|专注于 ACGMN 的内容管理系统 (CMS)||
 |[icat_lite](https://miao.o-o.zone)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/icat_lite/logo.png" alt="logo" width="50px">|喵空间社区程序 Lite 版||
 |[1Panel Apps](https://github.com/okxlin/appstore)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/1panel-apps/logo.png" alt="logo" width="50px">|适配 1Panel 应用商店的通用应用模板||
+|[WeWe RSS](https://github.com/cooderl/wewe-rss)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/wewe-rss/logo.png" alt="logo" width="50px">|更优雅的微信公众号订阅方式||
 |[Vue Color Avatar](https://vue-color-avatar.leoku.dev)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/vue-color-avatar/logo.png" alt="logo" width="50px">|一个纯前端实现的头像生成网站||
 |[雷池 Web 应用防火墙(Safeline WAF)](https://waf-ce.chaitin.cn/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/safeline/logo.png" alt="logo" width="50px">|一款足够简单、足够好用、足够强的免费 WAF||
 |[Gotify](https://gotify.net)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/gotify/logo.png" alt="logo" width="50px">|自托管通知服务器||
@@ -257,6 +262,7 @@
 |[MeTube](https://github.com/alexta69/metube)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/metube/logo.png" alt="logo" width="50px">|媒体下载工具||
 |[SSCMS 内容管理系统](https://sscms.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/sscms/logo.png" alt="logo" width="50px">|开源免费、企业级、可商用的CMS内容管理系统||
 |[NPS](https://ehang-io.github.io/nps)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/nps/logo.png" alt="logo" width="50px">|轻量级、高性能、功能强大的内网穿透代理服务器||
+|[Beszel](https://github.com/henrygd/beszel)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/beszel/logo.png" alt="logo" width="50px">|一个轻量级服务器资源监控工具||
 |[Immich](https://immich.app)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/immich/logo.png" alt="logo" width="50px">|高性能的自托管照片和视频备份方案||
 |[WuKongIM](https://githubim.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/wukongim/logo.png" alt="logo" width="50px">|让企业轻松拥有自己的即时通讯||
 |[Nging](https://github.com/admpub/nging)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/nging/logo.png" alt="logo" width="50px">|Go 语言 Web 管理面板||
@@ -324,6 +330,7 @@
 |[Nitter](https://nitter.net)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/nitter/logo.png" alt="logo" width="50px">|匿名浏览 Twitter 的开源工具||
 |[PGAdmin4](https://www.pgadmin.org)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/pgadmin4/logo.png" alt="logo" width="50px">|PostgreSQL 的开源管理和开发平台||
 |[Slash](https://demo.slash.yourselfhosted.com/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/slash/logo.png" alt="logo" width="50px">|一个开源、自托管书签和链接共享平台||
+|[Reubah](https://github.com/dendianugerah/reubah)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/reubah/logo.png" alt="logo" width="50px">|通用文件转换器和图像处理器||
 |[Hexo](https://hexo.io/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/hexo/logo.png" alt="logo" width="50px">|快速、简洁且高效的博客框架||
 |[LobeChat](https://lobehub.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/lobe-chat/logo.png" alt="logo" width="50px">|现代化设计的开源 ChatGPT/LLMs 聊天应用与开发框架||
 |[KMS & WEB](https://hub.docker.com/r/johngong/kms)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/kms-web/logo.png" alt="logo" width="50px">|KMS 服务端与 WEB||
