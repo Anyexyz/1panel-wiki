@@ -78,6 +78,7 @@
 |[OpenLiteSpeed](https://openlitespeed.org)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/openlitespeed/logo.png" alt="logo" width="50px">|一个高性能、轻量级、开源 的 HTTP 服务器||
 |[Transmission](https://transmissionbt.com/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/transmission/logo.png" alt="logo" width="50px">|一个快速，简单，免费的BitTorrent客户端||
 |[PhotoPrism](https://www.photoprism.app)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/photoprism/logo.png" alt="logo" width="50px">|去中心化网络的人工智能照片应用程序||
+|[ATVLoadly](https://github.com/bitxeno/atvloadly)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/atvloadly/logo.png" alt="logo" width="50px">|轻松将 IPA 侧载到 AppleTV||
 |[迅雷](https://www.xunlei.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/xunlei/logo.png" alt="logo" width="50px">|提取自群晖平台的迅雷下载套件||
 |[Photoview](https://github.com/photoview/photoview)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/photoview/logo.png" alt="logo" width="50px">|自托管个人服务器的照片库||
 |[OneNav](https://hub.docker.com/r/helloz/onenav)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/onenav/logo.png" alt="logo" width="50px">|一款开源免费的书签（导航）管理程序||
@@ -157,6 +158,7 @@
 |[Docker Hoster](https://hub.docker.com/r/solipsist01/docker-hoster)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/docker-hoster/logo.png" alt="logo" width="50px">|在宿主机 hosts 上解析容器名||
 |[SearXNG](https://github.com/searxng/searxng)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/searxng/logo.png" alt="logo" width="50px">|一个免费的互联网元聚合搜索引擎||
 |[Vertex](https://wiki.vertex.icu)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/vertex/logo.png" alt="logo" width="50px">|适用于 PT 玩家的追剧刷流一体化综合管理工具||
+|[PerfreeBlog](https://perfree.org.cn/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/perfree-blog/logo.png" alt="logo" width="50px">|开源的博客/CMS 建站工具||
 |[Emby Server](https://emby.media/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/embyserver/logo.png" alt="logo" width="50px">|一个免费的个人媒体服务器||
 |[Gopeed](https://gopeed.com)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/gopeed/logo.png" alt="logo" width="50px">|一款现代化的下载器||
 |[川虎 Chat (Chuanhu Chat)](https://github.com/GaiZhenbiao/ChuanhuChatGPT)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/okxlin/appstore/localApps/apps/chuanhuchat/logo.png" alt="logo" width="50px">|为多种 LLM 提供了一个轻快好用的 Web 图形界面和众多附加功能||
