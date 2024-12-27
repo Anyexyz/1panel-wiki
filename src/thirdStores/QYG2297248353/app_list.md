@@ -113,6 +113,7 @@
 |[Casdoor](https://casdoor.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/casdoor/logo.png" alt="logo" width="50px">|身份和访问管理(IAM)/单点登录(SSO)平台|website|
 |[AutoLady](https://catcat.blog/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/auto-lady/logo.png" alt="logo" width="50px">|自动化订阅AV影片|website|
 |[Media CMS](https://mediacms.io/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/mediacms/logo.png" alt="logo" width="50px">|现代、功能齐全的开源视频和媒体内容管理系统|website|
+|[Apifox Runner](https://apifox.com/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/apifox-runner/logo.png" alt="logo" width="50px">|自动化测试定时任务、接口导入、Mock 服务|runtime|
 |[Pi-hole](https://pi-hole.net/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/pi-hole/logo.png" alt="logo" width="50px">|DNS 沉洞服务器|website|
 |[Sonarr](https://sonarr.tv/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/sonarr/logo.png" alt="logo" width="50px">|智能 PVR 适用于新闻组和 BT 用户。|website|
 |[Kimai](https://www.kimai.org/)|<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/QYG2297248353/appstore-1panel/custom/apps/kimai/logo.png" alt="logo" width="50px">|基于网络的多用户时间追踪应用|website|
